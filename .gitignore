@@ -1,0 +1,7 @@
+clicia-30dias/out/
+clicia-30dias/entrega/*.zip
+clicia-30dias/build/
+clicia-30dias/previews/
+clicia-30dias/cronograma/thumbs/
+__pycache__/
+*.log
