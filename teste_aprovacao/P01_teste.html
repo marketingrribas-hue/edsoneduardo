@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>EcoFiscal P01 teste</title>
+<style>
+@font-face{font-family:Poppins;font-weight:400;src:url(fonts/poppins-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-weight:500;src:url(fonts/poppins-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-weight:700;src:url(fonts/poppins-latin-700-normal.woff2) format("woff2")}
+:root{
+  --marinho:#081D3D; --profundo:#103A82; --intenso:#1259D8;
+  --turq-claro:#27C9D5; --turq-escuro:#007B8C; --branco:#FFFFFF; --gelo:#F3F6FA;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#ccc;font-family:Poppins,sans-serif;-webkit-font-smoothing:antialiased}
+.art{width:1080px;height:1350px;position:relative;overflow:hidden}
+/* área reservada para a logo original: base centralizada, 300 px de largura */
+.logo-area{position:absolute;left:390px;bottom:72px;width:300px;height:96px}
+
+/* ---------- C01 | capa | família A sem foto (tipográfica) ---------- */
+#c01{background:
+  radial-gradient(900px 700px at 105% 8%, rgba(18,89,216,.55), rgba(18,89,216,0) 70%),
+  radial-gradient(700px 600px at -10% 105%, rgba(16,58,130,.75), rgba(16,58,130,0) 70%),
+  var(--marinho)}
+#c01 .flow{position:absolute;left:300px;top:120px;width:720px;height:560px}
+#c01 .block{position:absolute;left:80px;right:80px;top:650px}
+#c01 h1{font-size:80px;line-height:1.15;font-weight:500;color:var(--branco);letter-spacing:-.5px}
+#c01 h1 b{font-weight:700}
+#c01 h1 .t{color:var(--turq-claro);font-weight:700}
+#c01 p{margin-top:40px;font-size:44px;line-height:1.3;font-weight:400;color:#D6E2F2}
+#c01 p b{font-weight:700;color:var(--branco)}
+
+/* ---------- C02 | interno | branco editorial ---------- */
+#c02{background:linear-gradient(180deg,var(--branco) 0%,var(--gelo) 100%)}
+#c02 .flow{position:absolute;left:0;top:0;width:1080px;height:1350px}
+#c02 .block{position:absolute;left:80px;right:180px;top:470px;padding-left:44px;border-left:6px solid var(--turq-escuro)}
+#c02 h2{font-size:64px;line-height:1.15;font-weight:700;color:var(--marinho);letter-spacing:-.3px}
+#c02 h2 .t{color:var(--turq-escuro)}
+#c02 p{margin-top:36px;font-size:44px;line-height:1.32;font-weight:400;color:#2A3B57}
+#c02 p b{font-weight:500;color:var(--profundo)}
+</style>
+</head>
+<body>
+
+<section class="art" id="c01">
+  <svg class="flow" viewBox="0 0 720 560" aria-hidden="true">
+    <defs>
+      <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#27C9D5" stop-opacity=".55"/>
+        <stop offset=".55" stop-color="#1259D8" stop-opacity=".35"/>
+        <stop offset="1" stop-color="#103A82" stop-opacity="0"/>
+      </linearGradient>
+      <filter id="b1" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="5"/></filter>
+    </defs>
+    <path filter="url(#b1)" fill="none" stroke="url(#g1)" stroke-width="46" stroke-linecap="round"
+      d="M60 470 C 160 330, 300 400, 400 300 S 560 80, 660 120"/>
+    <path filter="url(#b1)" fill="none" stroke="url(#g1)" stroke-width="18" stroke-linecap="round" opacity=".7"
+      d="M150 520 C 260 420, 380 470, 480 360 S 620 190, 690 230"/>
+  </svg>
+  <div class="block">
+    <h1>Seu cliente do<br><span class="t">Simples</span> vende<br>para <b>empresas?</b></h1>
+    <p>A escolha de <b>2027</b> merece atenção.</p>
+  </div>
+  <div class="logo-area"></div>
+</section>
+
+<section class="art" id="c02">
+  <svg class="flow" viewBox="0 0 1080 1350" aria-hidden="true">
+    <path d="M1080 140 C 900 300, 880 640, 960 900 S 1080 1200, 1080 1200 Z" fill="#E7EEF7"/>
+    <path d="M1080 320 C 970 440, 960 700, 1020 900 L 1080 1020 Z" fill="#DCE7F3" opacity=".7"/>
+  </svg>
+  <div class="block">
+    <h2>Revise a <span class="t">opção</span></h2>
+    <p>Identifique os clientes que escolheram o <b>regime regular de IBS e&nbsp;CBS</b> para o&nbsp;primeiro semestre de&nbsp;2027.</p>
+  </div>
+  <div class="logo-area"></div>
+</section>
+
+</body>
+</html>
