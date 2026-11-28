@@ -1,0 +1,2874 @@
+[
+ {
+  "id": "P01",
+  "data": "27/11/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Simples Nacional",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "A escolha de 2027 merece atenção.",
+    "titulo": "Seu cliente do Simples vende para empresas?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Identifique os clientes que escolheram o regime regular de IBS e CBS para o primeiro semestre de 2027.",
+    "titulo": "Revise a opção"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Considere o perfil dos compradores, os créditos possíveis e os custos da operação.",
+    "titulo": "Compare a cadeia"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Consulte a opção registrada e as condições vigentes antes de orientar qualquer mudança.",
+    "titulo": "Confirme no portal"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Registre os cenários e a orientação ao empresário antes de qualquer alteração.",
+    "titulo": "Decisão documentada"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: balcão comercial com mercadoria e nota fiscal ilustrativa sem dados. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "O DAS é só uma parte da análise. Para clientes que vendem a outras empresas, compare o tratamento de IBS e CBS, os créditos permitidos e o custo efetivo. Confirme a situação registrada e a norma vigente antes de orientar uma mudança. Envie a um colega que atende empresas do Simples.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você já conferiu a opção registrada dos seus clientes?",
+    "sticker": "Sim / Ainda não"
+   },
+   {
+    "hora": "12h",
+    "texto": "Considere o perfil dos compradores, os créditos possíveis e os custos da operação.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F6, F7; divergência entre comunicados de setembro e 26/11 sobre a desistência: conferir norma vigente antes de informar prazo.; publicação da manhã fora da janela: reprogramar conforme aprovação, sem publicação retroativa.; janela original de 27/11 já passou: reagendar se ainda não publicada, sem duplicar ou postar retroativamente.",
+  "roteiro": ""
+ },
+ {
+  "id": "P02",
+  "data": "27/11/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Simples Nacional",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "O perfil dos clientes e fornecedores também importa.",
+    "titulo": "O DAS mais baixo não garante a melhor decisão tributária."
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição editorial equilibrada entre texto e elemento visual, sem posição obrigatória. Visual: etiqueta de preço e embalagem de produto.",
+  "legenda": "Compare os cenários para o primeiro semestre de 2027 com a empresa. Consulte a opção registrada e os atos vigentes antes de orientar.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Registre os cenários e a orientação ao empresário antes de qualquer alteração.",
+    "sticker": "Caixa de perguntas sobre Simples Nacional"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre simples nacional?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F6, F7; publicação da manhã fora da janela: reprogramar conforme aprovação, sem publicação retroativa.; janela original de 27/11 já passou: reagendar se ainda não publicada, sem duplicar ou postar retroativamente.",
+  "roteiro": ""
+ },
+ {
+  "id": "P03",
+  "data": "28/11/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "ICMS",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Mesmo produto. ICMS diferente. Onde está a diferença?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Descrição, NCM e demais características precisam corresponder ao produto real.",
+    "titulo": "A mercadoria"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Origem, destino, finalidade e perfil do destinatário podem alterar a regra.",
+    "titulo": "A operação"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Consulte o tratamento vigente no estado e na data da operação.",
+    "titulo": "A legislação"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Documente o fundamento fiscal antes de parametrizar o sistema.",
+    "titulo": "A conferência"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: duas embalagens idênticas lado a lado, em ambiente de estoque. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Esse é um ponto que merece atenção na revisão dos clientes. Descrição, NCM e demais características precisam corresponder ao produto real. Consulte o tratamento vigente no estado e na data da operação. Documente o fundamento fiscal antes de parametrizar o sistema. Envie para quem trabalha com essa pauta.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual dado você revisa primeiro na nota?",
+    "sticker": "NCM / Natureza da operação"
+   },
+   {
+    "hora": "12h",
+    "texto": "Origem, destino, finalidade e perfil do destinatário podem alterar a regra.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P04",
+  "data": "28/11/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "ICMS",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Acompanhar a legislação estadual faz parte do trabalho do especialista.",
+    "titulo": "Copiar a regra de ICMS de outro estado pode sair caro em MT."
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição editorial central com objeto em segundo plano e texto claramente legível. Visual: mapa estilizado de Mato Grosso, sem indicadores inventados.",
+  "legenda": "Uma classificação copiada pode carregar uma premissa errada para diversas operações. Salve esta pauta para a próxima revisão de cadastro.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Documente o fundamento fiscal antes de parametrizar o sistema.",
+    "sticker": "Caixa de perguntas sobre ICMS"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre icms?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P05",
+  "data": "29/11/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "PIS e Cofins dão lugar à CBS. Seu sistema está pronto?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "A transição prevê a substituição de PIS e Cofins pela CBS em 2027.",
+    "titulo": "O calendário"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Revise os campos fiscais e as integrações exigidas na emissão de documentos.",
+    "titulo": "O sistema"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Teste vendas, devoluções e compras representativas antes da virada.",
+    "titulo": "A operação"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Defina quem valida cada cenário: fiscal, TI e financeiro.",
+    "titulo": "O responsável"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: tela de ERP real autorizada ou computador com tela desfocada. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na prática, a resposta depende dos detalhes da operação. A transição prevê a substituição de PIS e Cofins pela CBS em 2027. Teste vendas, devoluções e compras representativas antes da virada. Defina quem valida cada cenário: fiscal, TI e financeiro. Qual desses pontos exige mais atenção na sua rotina?",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual teste fiscal já está concluído?",
+    "sticker": "Emissão / Apuração"
+   },
+   {
+    "hora": "12h",
+    "texto": "Revise os campos fiscais e as integrações exigidas na emissão de documentos.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P06",
+  "data": "29/11/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Uma configuração de sistema também é uma decisão tributária.",
+    "titulo": "Uma parametrização errada pode se repetir em milhares de notas."
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D B — Tipográfico, sem foto obrigatória. Branco editorial, marinho e turquesa escuro. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; sequência gráfica de notas repetidas.",
+  "legenda": "A substituição dos tributos federais de consumo exige preparação operacional. Compartilhe com quem cuida do ERP de seus clientes.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Defina quem valida cada cenário: fiscal, TI e financeiro.",
+    "sticker": "Caixa de perguntas sobre Reforma Tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre reforma tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P07",
+  "data": "30/11/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Simples Nacional",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Simples no regime de caixa: vendeu em 2026 e ainda não recebeu?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "O CGSN publicou regra de transição para valores de operações de 2026 ainda não recebidos.",
+    "titulo": "O que mudou"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Identifique os recebíveis referentes a operações realizadas até 31 de dezembro de 2026.",
+    "titulo": "O levantamento"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "A orientação oficial prevê inclusão desses valores na apuração de dezembro de 2026.",
+    "titulo": "A apuração"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Concilie recebíveis e documentos para evitar nova tributação indevida no recebimento posterior.",
+    "titulo": "A conferência"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: calendário de dezembro e faturas sem dados. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Antes de fechar a análise, confira as premissas utilizadas. O CGSN publicou regra de transição para valores de operações de 2026 ainda não recebidos. A orientação oficial prevê inclusão desses valores na apuração de dezembro de 2026. Concilie recebíveis e documentos para evitar nova tributação indevida no recebimento posterior. Leve este assunto para a próxima reunião técnica.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você tem clientes no Simples que utilizam regime de caixa?",
+    "sticker": "Sim / Não"
+   },
+   {
+    "hora": "12h",
+    "texto": "Identifique os recebíveis referentes a operações realizadas até 31 de dezembro de 2026.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F6, F7",
+  "roteiro": ""
+ },
+ {
+  "id": "P08",
+  "data": "30/11/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Ecossistema",
+  "publico": "Contadores e advogados tributaristas | Relacionamento",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Contadores e tributaristas: comparem os efeitos sobre as operações reais.",
+    "titulo": "Quem atende empresas precisa discutir a reforma além do DAS."
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição editorial central com objeto em segundo plano e texto claramente legível. Visual: foto autorizada de reunião real da EcoFiscal ou tipografia.",
+  "legenda": "A EcoFiscal aproxima profissionais que estudam a legislação e discutem sua aplicação aos negócios. Conte em qual área do tributário você atua.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Concilie recebíveis e documentos para evitar nova tributação indevida no recebimento posterior.",
+    "sticker": "Caixa de perguntas sobre Ecossistema"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre ecossistema?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F6, F7",
+  "roteiro": ""
+ },
+ {
+  "id": "P09",
+  "data": "01/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Créditos tributários",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Achou crédito tributário? Antes de calcular o valor, prove o direito."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Identifique qual tributo foi recolhido ou escriturado e por que existe diferença.",
+    "titulo": "Origem do crédito"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Reúna XML, escrituração, comprovantes e memória de cálculo.",
+    "titulo": "Documentos"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Verifique a hipótese legal, os limites e o procedimento de utilização.",
+    "titulo": "Fundamento"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Registre o que está comprovado, o que falta validar e o que deve ser descartado.",
+    "titulo": "Risco"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: documentos fiscais e lupa sobre mesa. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "O diagnóstico precisa sair do papel e chegar à operação. Identifique qual tributo foi recolhido ou escriturado e por que existe diferença. Verifique a hipótese legal, os limites e o procedimento de utilização. Registre o que está comprovado, o que falta validar e o que deve ser descartado. Compartilhe com um colega do tributário.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "O que mais dificulta provar um crédito?",
+    "sticker": "Documentos / Fundamento legal"
+   },
+   {
+    "hora": "12h",
+    "texto": "Reúna XML, escrituração, comprovantes e memória de cálculo.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P10",
+  "data": "01/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Créditos tributários",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Confira origem, fundamento e procedimento aplicável ao crédito.",
+    "titulo": "Crédito identificado ainda não é crédito disponível."
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D B — Tipográfico, sem foto obrigatória. Branco editorial, marinho e turquesa escuro. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; dois blocos de texto comparativos.",
+  "legenda": "Uma revisão fiscal responsável separa indícios de valores demonstráveis. Salve para orientar a próxima análise de recuperação.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Registre o que está comprovado, o que falta validar e o que deve ser descartado.",
+    "sticker": "Caixa de perguntas sobre Créditos tributários"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre créditos tributários?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P11",
+  "data": "02/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "O ICMS não desaparece em 2027. Não abandone sua apuração."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "A mudança dos tributos federais não encerra imediatamente a tributação estadual.",
+    "titulo": "Duas etapas"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "A redução gradual dos tributos atuais está prevista para 2029 a 2032.",
+    "titulo": "ICMS e ISS"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "A transição exige acompanhamento das regras de cada período.",
+    "titulo": "IBS"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Mantenha o controle do sistema atual enquanto prepara as operações para o novo.",
+    "titulo": "Na prática"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: calendário de transição em composição editorial sem datas extras. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na análise fiscal, vale começar pelo dado que sustenta a decisão. A mudança dos tributos federais não encerra imediatamente a tributação estadual. A transição exige acompanhamento das regras de cada período. Mantenha o controle do sistema atual enquanto prepara as operações para o novo. Salve para usar na próxima revisão fiscal.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "O ICMS acaba em 2027?",
+    "sticker": "Sim / Não"
+   },
+   {
+    "hora": "12h",
+    "texto": "A redução gradual dos tributos atuais está prevista para 2029 a 2032.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P12",
+  "data": "02/12/2026",
+  "hora": "18h",
+  "formato": "REELS",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ABERTURA FALADA",
+    "apoio": "",
+    "titulo": "Por que você ainda vai trabalhar com ICMS em 2027?"
+   }
+  ],
+  "direcao": "Referência original R5 / R7. Reels: vídeo original do André, plano médio, fundo real, legenda Poppins 44 px dentro da área segura; sem capa separada. Use o título como abertura falada, não crie arte estática.",
+  "legenda": "A entrada da CBS e do IBS não significa o fim imediato do ICMS. Qual dúvida você quer aprofundar?",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Mantenha o controle do sistema atual enquanto prepara as operações para o novo.",
+    "sticker": "Caixa de perguntas sobre Reforma Tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre reforma tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": "A entrada da CBS e do IBS não significa o fim imediato do ICMS. A redução dos tributos estaduais e municipais tem calendário próprio. O contador precisa trabalhar com as regras vigentes de cada período e preparar a empresa sem abandonar as conferências atuais. Qual operação você quer discutir?"
+ },
+ {
+  "id": "P13",
+  "data": "03/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Transação tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "A dívida está na Receita ou na PGFN? A resposta muda a negociação."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Identifique se está na Receita Federal ou inscrito em dívida ativa da União.",
+    "titulo": "Localize o débito"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Separe tributos, valores, situação processual e garantias existentes.",
+    "titulo": "Classifique"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Verifique as modalidades disponíveis e os requisitos no órgão competente.",
+    "titulo": "Compare"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Avalie se a empresa consegue manter a negociação sem comprometer a operação.",
+    "titulo": "Planeje"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: pastas de documentação fiscal com etiquetas neutras. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Esse é um ponto que merece atenção na revisão dos clientes. Identifique se está na Receita Federal ou inscrito em dívida ativa da União. Verifique as modalidades disponíveis e os requisitos no órgão competente. Avalie se a empresa consegue manter a negociação sem comprometer a operação. Envie para quem trabalha com essa pauta.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você separa os débitos por órgão antes de negociar?",
+    "sticker": "Sempre / Nem sempre"
+   },
+   {
+    "hora": "12h",
+    "texto": "Separe tributos, valores, situação processual e garantias existentes.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F8, F9; F12 (calculadora oficial de transação, recurso de apoio, sem promessa de condições).",
+  "roteiro": ""
+ },
+ {
+  "id": "P14",
+  "data": "03/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Transação tributária",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Planejamento tributário e financeiro precisam conversar.",
+    "titulo": "Uma dívida negociada ainda pode sufocar o caixa."
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição editorial equilibrada entre texto e elemento visual, sem posição obrigatória. Visual: extrato ilustrativo sem dados e calculadora.",
+  "legenda": "O primeiro passo é identificar a administração responsável pela cobrança. Não existe uma condição de negociação universal. Compartilhe com um colega que atua em regularização fiscal.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Avalie se a empresa consegue manter a negociação sem comprometer a operação.",
+    "sticker": "Caixa de perguntas sobre Transação tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre transação tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F8, F9; F12 (calculadora oficial de transação, recurso de apoio, sem promessa de condições).",
+  "roteiro": ""
+ },
+ {
+  "id": "P15",
+  "data": "04/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Agronegócio",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Soja vendida dentro do estado, fora dele ou exportada: o imposto pode mudar."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Verifique o estado, o comprador e a destinação da produção.",
+    "titulo": "Venda interna"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Analise a regra do ICMS e os eventuais tratamentos específicos da operação.",
+    "titulo": "Venda interestadual"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Confirme documentação, destinação e requisitos do tratamento aplicável.",
+    "titulo": "Exportação"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Mapeie a cadeia comercial do produtor antes de concluir sobre a tributação.",
+    "titulo": "Diagnóstico"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: foto real de soja a granel, silos ou carga de grãos. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na prática, a resposta depende dos detalhes da operação. Verifique o estado, o comprador e a destinação da produção. Confirme documentação, destinação e requisitos do tratamento aplicável. Mapeie a cadeia comercial do produtor antes de concluir sobre a tributação. Qual desses pontos exige mais atenção na sua rotina?",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Em qual etapa do agro você atua?",
+    "sticker": "Produção / Comercialização"
+   },
+   {
+    "hora": "12h",
+    "texto": "Analise a regra do ICMS e os eventuais tratamentos específicos da operação.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P16",
+  "data": "04/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Agronegócio",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Entenda o caminho da mercadoria antes de analisar o imposto.",
+    "titulo": "No agro, o destino da mercadoria muda a análise fiscal."
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição editorial central com objeto em segundo plano e texto claramente legível. Visual: silos e caminhão graneleiro em fotografia real.",
+  "legenda": "Em Mato Grosso, conhecer a cadeia do agronegócio ajuda a interpretar a legislação estadual. Marque um profissional que atua no setor.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Mapeie a cadeia comercial do produtor antes de concluir sobre a tributação.",
+    "sticker": "Caixa de perguntas sobre Agronegócio"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre agronegócio?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P17",
+  "data": "05/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Auditoria fiscal",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Nota autorizada. Imposto errado. Como isso acontece?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "A emissão autorizada não substitui a análise do enquadramento tributário.",
+    "titulo": "Autorização"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Revise produto, natureza da operação e regras de tributação.",
+    "titulo": "Cadastro"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Compare o XML com os registros fiscais e a memória de apuração.",
+    "titulo": "Escrituração"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Identifique divergências e documente a correção indicada.",
+    "titulo": "Conclusão"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: nota fiscal ilustrativa e lupa. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Antes de fechar a análise, confira as premissas utilizadas. A emissão autorizada não substitui a análise do enquadramento tributário. Compare o XML com os registros fiscais e a memória de apuração. Identifique divergências e documente a correção indicada. Leve este assunto para a próxima reunião técnica.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "A sua revisão começa pelo XML ou pelo SPED?",
+    "sticker": "XML / SPED"
+   },
+   {
+    "hora": "12h",
+    "texto": "Revise produto, natureza da operação e regras de tributação.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P18",
+  "data": "05/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Auditoria fiscal",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Cruze documentos eletrônicos, escrituração e memória de cálculo.",
+    "titulo": "O XML confirma a apuração que sua empresa entregou?"
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D B — Tipográfico, sem foto obrigatória. Branco editorial, marinho e turquesa escuro. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; diagrama XML e escrituração, apenas se textos autorizados.",
+  "legenda": "A conferência técnica evita confiar apenas no status de autorização do documento. Qual cruzamento a sua equipe utiliza?",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Identifique divergências e documente a correção indicada.",
+    "sticker": "Caixa de perguntas sobre Auditoria fiscal"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre auditoria fiscal?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P19",
+  "data": "06/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "O fornecedor mais barato pode não ter o menor custo tributário."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Identifique o regime tributário e o tratamento da operação.",
+    "titulo": "Perfil do fornecedor"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Avalie o aproveitamento permitido de IBS e CBS conforme a legislação.",
+    "titulo": "Créditos"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Compare custo de aquisição, tributos recuperáveis e condições comerciais.",
+    "titulo": "Preço efetivo"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Inclua o fiscal nas simulações de negociação com fornecedores.",
+    "titulo": "Compras"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: caixas de mercadorias e documento de compra. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "O diagnóstico precisa sair do papel e chegar à operação. Identifique o regime tributário e o tratamento da operação. Compare custo de aquisição, tributos recuperáveis e condições comerciais. Inclua o fiscal nas simulações de negociação com fornecedores. Compartilhe com um colega do tributário.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Quem participa da negociação com fornecedores?",
+    "sticker": "Compras / Compras e fiscal"
+   },
+   {
+    "hora": "12h",
+    "texto": "Avalie o aproveitamento permitido de IBS e CBS conforme a legislação.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P20",
+  "data": "06/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Reforma Tributária",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "A negociação com fornecedores pode afetar custos e margens.",
+    "titulo": "Compras em 2027: compare o preço depois dos créditos."
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição editorial central com objeto em segundo plano e texto claramente legível. Visual: etiqueta e documento comercial.",
+  "legenda": "A decisão sobre fornecedor exige olhar o custo econômico da aquisição, não só o valor de face. Envie para a equipe de compras.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Inclua o fiscal nas simulações de negociação com fornecedores.",
+    "sticker": "Caixa de perguntas sobre Reforma Tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre reforma tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P21",
+  "data": "07/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "ICMS MT",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Sua empresa usa incentivo de ICMS em MT? Você consegue comprovar as condições?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Confirme se o contribuinte e a atividade atendem aos critérios do benefício.",
+    "titulo": "Enquadramento"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Revise contrapartidas, requisitos e limitações estabelecidos na norma.",
+    "titulo": "Condições"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Identifique a regra aplicável na data de cada operação.",
+    "titulo": "Vigência"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Registre a documentação que demonstra o cumprimento das condições.",
+    "titulo": "Acompanhamento"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: galpão industrial em Mato Grosso, foto licenciada. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na análise fiscal, vale começar pelo dado que sustenta a decisão. Confirme se o contribuinte e a atividade atendem aos critérios do benefício. Identifique a regra aplicável na data de cada operação. Registre a documentação que demonstra o cumprimento das condições. Salve para usar na próxima revisão fiscal.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você atende empresas com incentivo fiscal?",
+    "sticker": "Sim / Não"
+   },
+   {
+    "hora": "12h",
+    "texto": "Revise contrapartidas, requisitos e limitações estabelecidos na norma.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P22",
+  "data": "07/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "ICMS MT",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Mantenha a comprovação das condições de utilização.",
+    "titulo": "Benefício fiscal sem controle documental é uma exposição a risco."
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição editorial equilibrada entre texto e elemento visual, sem posição obrigatória. Visual: pasta de documentação com marca-texto.",
+  "legenda": "Antes de tratar um incentivo como definitivo, confira as normas e condições específicas. Esta pauta é útil para quem atende indústria e comércio em MT.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Registre a documentação que demonstra o cumprimento das condições.",
+    "sticker": "Caixa de perguntas sobre ICMS MT"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre icms mt?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P23",
+  "data": "08/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Se o Fisco apresentar a apuração, quem confere os dados?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "O novo modelo prevê apuração baseada nas informações fiscais disponíveis.",
+    "titulo": "Apuração assistida"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "A qualidade do documento eletrônico influencia o resultado apresentado.",
+    "titulo": "Origem dos dados"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Confronte operações e créditos com os registros da empresa.",
+    "titulo": "Conciliação"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Defina uma rotina de revisão e tratamento das divergências.",
+    "titulo": "Responsabilidade"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: monitor de apuração real autorizado ou tela desfocada. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Esse é um ponto que merece atenção na revisão dos clientes. O novo modelo prevê apuração baseada nas informações fiscais disponíveis. Confronte operações e créditos com os registros da empresa. Defina uma rotina de revisão e tratamento das divergências. Envie para quem trabalha com essa pauta.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você confia em apuração sem conferência?",
+    "sticker": "Não / Depende dos dados"
+   },
+   {
+    "hora": "12h",
+    "texto": "A qualidade do documento eletrônico influencia o resultado apresentado.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P24",
+  "data": "08/12/2026",
+  "hora": "18h",
+  "formato": "REELS",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ABERTURA FALADA",
+    "apoio": "",
+    "titulo": "Apuração assistida: o erro pode começar na nota."
+   }
+  ],
+  "direcao": "Referência original R5 / R7. Reels: vídeo original do André, plano médio, fundo real, legenda Poppins 44 px dentro da área segura; sem capa separada. Use o título como abertura falada, não crie arte estática.",
+  "legenda": "Uma apuração pré-preenchida facilita a rotina, mas a empresa precisa revisar os dados de origem. Qual dúvida você quer aprofundar?",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Defina uma rotina de revisão e tratamento das divergências.",
+    "sticker": "Caixa de perguntas sobre Reforma Tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre reforma tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": "Uma apuração pré-preenchida facilita a rotina, mas a empresa precisa revisar os dados de origem. É necessário conferir documentos, créditos e divergências. Defina quem vai validar as informações e como os ajustes serão acompanhados. Envie sua dúvida sobre a nova apuração."
+ },
+ {
+  "id": "P25",
+  "data": "09/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Lucro Presumido",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Lucro Presumido: o IRPJ é uma coisa. O crédito de IBS e CBS é outra."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "A forma de apurar IRPJ e CSLL não se confunde com a apuração de IBS e CBS.",
+    "titulo": "Tributos diferentes"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Identifique compras, vendas e despesas relevantes na cadeia da empresa.",
+    "titulo": "Operações"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Simule os valores permitidos no regime aplicável, sem presumir aproveitamento universal.",
+    "titulo": "Créditos"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Compare custo, margem e caixa com as premissas documentadas.",
+    "titulo": "Resultado"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: documentos e duas colunas gráficas sem números. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na prática, a resposta depende dos detalhes da operação. A forma de apurar IRPJ e CSLL não se confunde com a apuração de IBS e CBS. Simule os valores permitidos no regime aplicável, sem presumir aproveitamento universal. Compare custo, margem e caixa com as premissas documentadas. Qual desses pontos exige mais atenção na sua rotina?",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual regime predomina na sua carteira?",
+    "sticker": "Presumido / Real"
+   },
+   {
+    "hora": "12h",
+    "texto": "Identifique compras, vendas e despesas relevantes na cadeia da empresa.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P26",
+  "data": "09/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Lucro Presumido",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Separe a análise de IRPJ e CSLL da tributação sobre o consumo.",
+    "titulo": "O regime de IRPJ não responde sozinho como ficam IBS e CBS."
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D B — Tipográfico, sem foto obrigatória. Branco editorial, marinho e turquesa escuro. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; contraste entre tributos de renda e consumo.",
+  "legenda": "Lucro Presumido e Lucro Real exigem estudo particularizado da atividade. Acompanhe a EcoFiscal para aprofundar as análises.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Compare custo, margem e caixa com as premissas documentadas.",
+    "sticker": "Caixa de perguntas sobre Lucro Presumido"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre lucro presumido?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P27",
+  "data": "10/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Ecossistema",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "O parecer diz uma coisa. A escrituração mostra outra. E agora?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Organize documentos, registros e memória da apuração.",
+    "titulo": "Contabilidade"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Analise o fundamento jurídico, os riscos e a estratégia aplicável.",
+    "titulo": "Direito tributário"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Traduza os efeitos da análise em decisões operacionais e financeiras.",
+    "titulo": "Empresa"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Defina responsabilidades e compartilhe evidências com autorização do cliente.",
+    "titulo": "Trabalho integrado"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: contrato e documento fiscal lado a lado. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Antes de fechar a análise, confira as premissas utilizadas. Organize documentos, registros e memória da apuração. Traduza os efeitos da análise em decisões operacionais e financeiras. Defina responsabilidades e compartilhe evidências com autorização do cliente. Leve este assunto para a próxima reunião técnica.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual é a sua área de atuação?",
+    "sticker": "Contabilidade / Direito tributário"
+   },
+   {
+    "hora": "12h",
+    "texto": "Analise o fundamento jurídico, os riscos e a estratégia aplicável.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F10, F11; validação interna",
+  "roteiro": ""
+ },
+ {
+  "id": "P28",
+  "data": "10/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Ecossistema",
+  "publico": "Contadores e advogados tributaristas | Relacionamento",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "É essa troca que queremos ampliar na EcoFiscal.",
+    "titulo": "Contador e tributarista: o mesmo caso precisa dos dois olhares."
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição editorial central com objeto em segundo plano e texto claramente legível. Visual: foto real autorizada da equipe EcoFiscal, alternativa tipográfica.",
+  "legenda": "Uma análise completa pode exigir diferentes competências. Conte nos comentários em qual área você atua.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Defina responsabilidades e compartilhe evidências com autorização do cliente.",
+    "sticker": "Caixa de perguntas sobre Ecossistema"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre ecossistema?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F10, F11; validação interna",
+  "roteiro": ""
+ },
+ {
+  "id": "P29",
+  "data": "11/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Créditos ICMS",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Saldo credor de ICMS: o que você precisa guardar antes da transição?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Separe os créditos por origem, período e fundamento.",
+    "titulo": "Composição"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Verifique escriturações, documentos e eventuais ajustes.",
+    "titulo": "Conciliação"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "A legislação prevê tratamento para saldos credores existentes ao final da transição.",
+    "titulo": "Transição"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Organize a prova documental e acompanhe as condições de reconhecimento e aproveitamento.",
+    "titulo": "Preparação"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: arquivo de pastas e documentos de ICMS. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "O diagnóstico precisa sair do papel e chegar à operação. Separe os créditos por origem, período e fundamento. A legislação prevê tratamento para saldos credores existentes ao final da transição. Organize a prova documental e acompanhe as condições de reconhecimento e aproveitamento. Compartilhe com um colega do tributário.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você já mapeou os saldos credores da carteira?",
+    "sticker": "Sim / Ainda não"
+   },
+   {
+    "hora": "12h",
+    "texto": "Verifique escriturações, documentos e eventuais ajustes.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P30",
+  "data": "11/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Créditos ICMS",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Organize a documentação dos saldos credores.",
+    "titulo": "Seu saldo credor tem histórico e documentação suficientes?"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição editorial equilibrada entre texto e elemento visual, sem posição obrigatória. Visual: pastas de arquivo.",
+  "legenda": "O fim da transição não torna todos os créditos automaticamente utilizáveis. Estude as regras e os procedimentos de reconhecimento. Salve esta pauta.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Organize a prova documental e acompanhe as condições de reconhecimento e aproveitamento.",
+    "sticker": "Caixa de perguntas sobre Créditos ICMS"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre créditos icms?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P31",
+  "data": "12/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Transação tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "A primeira parcela cabe no caixa. E as próximas?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Compare a entrada e as parcelas com projeções conservadoras de caixa.",
+    "titulo": "Capacidade"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Leia as exigências para manutenção do acordo e as hipóteses de rescisão.",
+    "titulo": "Condições"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Considere as obrigações que continuam vencendo durante a negociação.",
+    "titulo": "Débitos correntes"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Apresente alternativas à empresa antes de formalizar a adesão.",
+    "titulo": "Simulação"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: calendário e documentos de negociação. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na análise fiscal, vale começar pelo dado que sustenta a decisão. Compare a entrada e as parcelas com projeções conservadoras de caixa. Considere as obrigações que continuam vencendo durante a negociação. Apresente alternativas à empresa antes de formalizar a adesão. Salve para usar na próxima revisão fiscal.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual ponto pesa mais numa negociação?",
+    "sticker": "Entrada / Fluxo de caixa"
+   },
+   {
+    "hora": "12h",
+    "texto": "Leia as exigências para manutenção do acordo e as hipóteses de rescisão.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F8, F9; F12 (calculadora oficial de transação, recurso de apoio, sem promessa de condições).",
+  "roteiro": ""
+ },
+ {
+  "id": "P32",
+  "data": "12/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Transação tributária",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Compare entrada, parcelas, obrigações correntes e hipóteses de rescisão.",
+    "titulo": "Não compare acordos tributários apenas pelo desconto."
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D C — Tipográfico, sem foto obrigatória. Azul intenso, branco e turquesa de contraste. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; frase em destaque com formas discretas.",
+  "legenda": "Uma boa análise de transação considera a capacidade financeira e as condições da modalidade. Compartilhe com o financeiro de uma empresa.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Apresente alternativas à empresa antes de formalizar a adesão.",
+    "sticker": "Caixa de perguntas sobre Transação tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre transação tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F8, F9; F12 (calculadora oficial de transação, recurso de apoio, sem promessa de condições).",
+  "roteiro": ""
+ },
+ {
+  "id": "P33",
+  "data": "13/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Masterclass",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "4 entregas tributárias que a reforma já exige discutir."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Mapear operações e identificar impactos por atividade econômica.",
+    "titulo": "Diagnóstico"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Comparar cenários de custo, preço, créditos e caixa.",
+    "titulo": "Simulação"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Acompanhar testes de sistemas e adequação documental.",
+    "titulo": "Implantação"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Delimitar o projeto, as entregas e as responsabilidades técnicas.",
+    "titulo": "Serviço profissional"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: mesa de reunião e relatório de diagnóstico. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Esse é um ponto que merece atenção na revisão dos clientes. Mapear operações e identificar impactos por atividade econômica. Acompanhar testes de sistemas e adequação documental. Delimitar o projeto, as entregas e as responsabilidades técnicas. Envie para quem trabalha com essa pauta.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual serviço tributário quer estruturar para 2027?",
+    "sticker": "Diagnóstico / Implantação"
+   },
+   {
+    "hora": "12h",
+    "texto": "Comparar cenários de custo, preço, créditos e caixa.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3; confirmar materiais, agenda, CTA e dados oficiais do evento; não inventar informações.",
+  "roteiro": ""
+ },
+ {
+  "id": "P34",
+  "data": "13/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Masterclass",
+  "publico": "Contadores e advogados tributaristas | Conversão / interesse no evento",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Uma discussão sobre serviços tributários e sua precificação.",
+    "titulo": "O mapa secreto dos honorários de 2027.",
+    "kicker": "MASTERCLASS"
+   }
+  ],
+  "direcao": "Referência original R7 / R5. Evento: identidade oficial do evento e logo original EcoFiscal quando autorizada. Tipografia editorial, sem foto inventada; não alterar a identidade oficial da Masterclass. Confirmar data, chamada, link e autorização antes da produção.",
+  "legenda": "A Masterclass de 2027 será dedicada à discussão dos honorários no mercado tributário. Envie MASTERCLASS no direct para manifestar interesse.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Delimitar o projeto, as entregas e as responsabilidades técnicas.",
+    "sticker": "Caixa de perguntas sobre Masterclass"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Quer acompanhar a Masterclass de 2027?",
+    "sticker": "Direct: MASTERCLASS"
+   }
+  ],
+  "validacao": "F1, F2, F3; confirmar materiais, agenda, CTA e dados oficiais do evento; não inventar informações.",
+  "roteiro": ""
+ },
+ {
+  "id": "P35",
+  "data": "14/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Seu contrato vai atravessar 2027. Quem assume a mudança do imposto?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Identifique vigência, preço, reajuste e responsabilidade por tributos.",
+    "titulo": "Leia o contrato"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Estime os efeitos da nova tributação sobre as operações contratadas.",
+    "titulo": "Simule"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Avalie com o jurídico o cabimento de revisão ou ajustes comerciais.",
+    "titulo": "Negocie"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Formalize as decisões e as premissas com as partes envolvidas.",
+    "titulo": "Registre"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: contrato e caneta. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na prática, a resposta depende dos detalhes da operação. Identifique vigência, preço, reajuste e responsabilidade por tributos. Avalie com o jurídico o cabimento de revisão ou ajustes comerciais. Formalize as decisões e as premissas com as partes envolvidas. Qual desses pontos exige mais atenção na sua rotina?",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "A sua carteira tem contratos que atravessam 2027?",
+    "sticker": "Sim / Não sei"
+   },
+   {
+    "hora": "12h",
+    "texto": "Estime os efeitos da nova tributação sobre as operações contratadas.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P36",
+  "data": "14/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Reforma Tributária",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Contratos de longo prazo merecem atenção durante a transição.",
+    "titulo": "A margem de 2027 pode depender de um contrato assinado em 2026."
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição editorial central com objeto em segundo plano e texto claramente legível. Visual: documento contratual em ambiente empresarial.",
+  "legenda": "A mudança de tributação não autoriza automaticamente reajustes. A análise depende do contrato, da lei e das condições da operação. Envie a um colega do jurídico.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Formalize as decisões e as premissas com as partes envolvidas.",
+    "sticker": "Caixa de perguntas sobre Reforma Tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre reforma tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P37",
+  "data": "15/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "ICMS ST",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Saiu da substituição tributária? O estoque não desaparece."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Verifique produto, estado e ato normativo aplicável.",
+    "titulo": "Identifique"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Confirme a vigência e o tratamento previsto para a mudança.",
+    "titulo": "Data"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Levante as quantidades existentes e a documentação de entrada.",
+    "titulo": "Estoque"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Analise as regras de ajuste, restituição ou recolhimento, se houver.",
+    "titulo": "Procedimento"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: estoque de mercadorias em prateleiras. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Antes de fechar a análise, confira as premissas utilizadas. Verifique produto, estado e ato normativo aplicável. Levante as quantidades existentes e a documentação de entrada. Analise as regras de ajuste, restituição ou recolhimento, se houver. Leve este assunto para a próxima reunião técnica.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você atende comércio com ICMS-ST?",
+    "sticker": "Sim / Não"
+   },
+   {
+    "hora": "12h",
+    "texto": "Confirme a vigência e o tratamento previsto para a mudança.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P38",
+  "data": "15/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "ICMS ST",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Confira a legislação aplicável antes de ajustar a apuração.",
+    "titulo": "ICMS-ST: antes de ajustar o estoque, confira a regra de transição."
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição editorial equilibrada entre texto e elemento visual, sem posição obrigatória. Visual: caixas e etiquetas de estoque.",
+  "legenda": "Não presuma que toda exclusão da substituição tributária gera crédito. Confira as regras específicas antes de realizar ajustes.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Analise as regras de ajuste, restituição ou recolhimento, se houver.",
+    "sticker": "Caixa de perguntas sobre ICMS ST"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre icms st?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P39",
+  "data": "16/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Split payment: e se parte do valor da venda não passar pelo seu caixa?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "A legislação prevê segregação dos tributos na liquidação financeira em hipóteses definidas.",
+    "titulo": "O conceito"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Mapeie os meios de pagamento e o prazo de recebimento.",
+    "titulo": "A empresa"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Simule os efeitos conforme a implementação aplicável a cada operação.",
+    "titulo": "O caixa"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Confira cronogramas e regulamentação antes de alterar projeções.",
+    "titulo": "Acompanhe"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: terminal de pagamento sem marca sobre balcão. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "O diagnóstico precisa sair do papel e chegar à operação. A legislação prevê segregação dos tributos na liquidação financeira em hipóteses definidas. Simule os efeitos conforme a implementação aplicável a cada operação. Confira cronogramas e regulamentação antes de alterar projeções. Compartilhe com um colega do tributário.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual meio de pagamento domina seus clientes?",
+    "sticker": "Cartão / Outros"
+   },
+   {
+    "hora": "12h",
+    "texto": "Mapeie os meios de pagamento e o prazo de recebimento.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P40",
+  "data": "16/12/2026",
+  "hora": "18h",
+  "formato": "REELS",
+  "tema": "Reforma Tributária",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ABERTURA FALADA",
+    "apoio": "",
+    "titulo": "Split payment: por que simular o recebimento antes de mudar o preço?"
+   }
+  ],
+  "direcao": "Referência original R5 / R7. Reels: vídeo original do André, plano médio, fundo real, legenda Poppins 44 px dentro da área segura; sem capa separada. Use o título como abertura falada, não crie arte estática.",
+  "legenda": "No split payment, a arrecadação pode ser vinculada à liquidação financeira. Qual dúvida você quer aprofundar?",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Confira cronogramas e regulamentação antes de alterar projeções.",
+    "sticker": "Caixa de perguntas sobre Reforma Tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre reforma tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": "No split payment, a arrecadação pode ser vinculada à liquidação financeira. Para avaliar o impacto, precisamos conhecer os meios de pagamento, os prazos e as regras aplicáveis. Não trate a implementação como universal e imediata. Comece mapeando o fluxo da empresa."
+ },
+ {
+  "id": "P41",
+  "data": "17/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Classificação fiscal",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "O mesmo NCM pode esconder operações bem diferentes."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Confira composição, finalidade e descrição comercial antes de validar a classificação.",
+    "titulo": "Comece pelo produto"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Origem, destino e natureza da circulação também influenciam o tratamento fiscal.",
+    "titulo": "Olhe a operação"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Compare cadastro, documentos fiscais e regra aplicável ao caso.",
+    "titulo": "Cruze as informações"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Documente a conclusão e as premissas da análise.",
+    "titulo": "O código é só o começo."
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial. Capa: fotografia licenciada de duas embalagens neutras semelhantes em bancada de expedição, integradas ao cenário, sem recorte solto. Título na área de contraste à esquerda; destaque “NCM” e “operações” em turquesa. Cards 2 e 4 brancos, 3 azul profundo e 5 marinho; blocos de título e apoio alinhados à esquerda, sem foto nos internos. Logo oficial no rodapé.",
+  "legenda": "O NCM é um dado fundamental, mas não resolve sozinho o enquadramento de uma operação. A análise deve considerar as características da mercadoria, os documentos, o contexto da circulação e a legislação aplicável. Compartilhe com quem revisa cadastros fiscais.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você revisa o NCM junto com a operação?",
+    "sticker": "Enquete: Sim / Nem sempre"
+   },
+   {
+    "hora": "12h",
+    "texto": "O código fiscal é só uma parte da análise.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5; validar enquadramento e exemplos com o responsável técnico; não sugerir tratamento uniforme para todos os NCMs.",
+  "roteiro": ""
+ },
+ {
+  "id": "P42",
+  "data": "17/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Ecossistema EcoFiscal",
+  "publico": "Contadores e advogados tributaristas | Relacionamento e compartilhamentos",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Contabilidade e Direito: duas leituras que se complementam.",
+    "titulo": "Um caso tributário pode exigir mais de uma especialidade."
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial. Fotografia real autorizada de duas pessoas analisando documentos na mesma mesa, enquadramento natural sem rosto inventado; alternativa: mesa com dois conjuntos de documentos. Título em marinho e “especialidade” em turquesa escuro; apoio próximo, logo original no centro do rodapé. Sem moldura cortada.",
+  "legenda": "A interpretação da norma e a leitura dos registros fiscais se complementam. Quando os profissionais compartilham informações, fica mais fácil identificar as questões que precisam ser aprofundadas. Que tipo de caso você costuma discutir com colegas de outras especialidades?",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Com quem você discute os casos tributários mais complexos?",
+    "sticker": "Caixa de perguntas"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual área você gostaria de conhecer melhor?",
+    "sticker": "Enquete: Contabilidade / Direito tributário"
+   }
+  ],
+  "validacao": "Validação editorial; não atribuir parcerias, serviços ou resultados específicos sem comprovação.",
+  "roteiro": ""
+ },
+ {
+  "id": "P43",
+  "data": "18/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "ICMS",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Devolveu a mercadoria? A nota original ainda importa."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Recupere a nota da operação original e a movimentação efetiva.",
+    "titulo": "Identifique a origem"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Confira as regras do estado, o destinatário e a natureza da devolução.",
+    "titulo": "Tratamento fiscal"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Garanta a referência correta e os campos exigidos.",
+    "titulo": "Documento"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Confira os efeitos no estoque, nos registros e na apuração.",
+    "titulo": "Conciliação"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: caixa de devolução e etiqueta. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Esse é um ponto que merece atenção na revisão dos clientes. Recupere a nota da operação original e a movimentação efetiva. Garanta a referência correta e os campos exigidos. Confira os efeitos no estoque, nos registros e na apuração. Envie para quem trabalha com essa pauta.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual operação gera mais dúvidas?",
+    "sticker": "Devolução / Retorno"
+   },
+   {
+    "hora": "12h",
+    "texto": "Confira as regras do estado, o destinatário e a natureza da devolução.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P44",
+  "data": "18/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "ICMS",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Confira documento original, estoque e apuração.",
+    "titulo": "Uma devolução mal vinculada pode distorcer a apuração."
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição editorial central com objeto em segundo plano e texto claramente legível. Visual: embalagem devolvida e documento fiscal.",
+  "legenda": "Na revisão de dezembro, inclua devoluções, cancelamentos e retornos nas amostras de auditoria. Compartilhe com o setor fiscal.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Confira os efeitos no estoque, nos registros e na apuração.",
+    "sticker": "Caixa de perguntas sobre ICMS"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre icms?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P45",
+  "data": "19/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "A nota de janeiro vai funcionar? Teste estas operações antes da virada."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Selecione os fluxos mais frequentes e as exceções relevantes.",
+    "titulo": "Vendas"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Confira tratamento e documentação das aquisições.",
+    "titulo": "Compras"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Simule a ligação entre a operação original e o ajuste posterior.",
+    "titulo": "Devoluções"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Confronte emissão, escrituração, apuração e financeiro.",
+    "titulo": "Integração"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: terminal de emissão de nota e mercadorias. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na prática, a resposta depende dos detalhes da operação. Selecione os fluxos mais frequentes e as exceções relevantes. Simule a ligação entre a operação original e o ajuste posterior. Confronte emissão, escrituração, apuração e financeiro. Qual desses pontos exige mais atenção na sua rotina?",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Quem está liderando os testes no cliente?",
+    "sticker": "Fiscal / TI"
+   },
+   {
+    "hora": "12h",
+    "texto": "Confira tratamento e documentação das aquisições.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P46",
+  "data": "19/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "A adaptação à reforma depende da integração das áreas.",
+    "titulo": "Se o ERP falhar em janeiro, quem vai identificar o erro?"
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D B — Tipográfico, sem foto obrigatória. Branco editorial, marinho e turquesa escuro. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; frase editorial com gráfico abstrato sem dados.",
+  "legenda": "Crie uma matriz de operações para testar cada fluxo e registre evidências. Salve para a reunião de implantação.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Confronte emissão, escrituração, apuração e financeiro.",
+    "sticker": "Caixa de perguntas sobre Reforma Tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre reforma tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P47",
+  "data": "20/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Lucro Real",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "A compra mais barata também é a mais vantajosa no Lucro Real?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Identifique despesas e aquisições relevantes da atividade.",
+    "titulo": "Mapeie"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Diferencie tributos recuperáveis e não recuperáveis conforme as regras aplicáveis.",
+    "titulo": "Separe"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Avalie o efeito no custo, no resultado e nos recebimentos.",
+    "titulo": "Compare"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Registre as premissas e os documentos que sustentam o estudo.",
+    "titulo": "Documente"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: mercadorias e documento de compra. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Antes de fechar a análise, confira as premissas utilizadas. Identifique despesas e aquisições relevantes da atividade. Avalie o efeito no custo, no resultado e nos recebimentos. Registre as premissas e os documentos que sustentam o estudo. Leve este assunto para a próxima reunião técnica.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você já comparou os créditos atuais com o novo modelo?",
+    "sticker": "Sim / Em estudo"
+   },
+   {
+    "hora": "12h",
+    "texto": "Diferencie tributos recuperáveis e não recuperáveis conforme as regras aplicáveis.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P48",
+  "data": "20/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Lucro Real",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Considere as regras de creditamento aplicáveis ao novo modelo.",
+    "titulo": "Não copie a regra de crédito de PIS e Cofins para IBS e CBS."
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D A — Tipográfico, sem foto obrigatória. Marinho editorial, branco e turquesa. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; contraste tipográfico.",
+  "legenda": "O tratamento de um gasto depende do tributo e da operação. Evite transpor automaticamente as regras de PIS e Cofins para CBS e IBS.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Registre as premissas e os documentos que sustentam o estudo.",
+    "sticker": "Caixa de perguntas sobre Lucro Real"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre lucro real?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P49",
+  "data": "21/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Compliance",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "O escritório entra em recesso. As pendências fiscais continuam."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Liste vencimentos e transmissões do período aplicáveis aos clientes.",
+    "titulo": "Obrigações"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Organize pendências de notas e informações ainda não recebidas.",
+    "titulo": "Documentos"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Confirme procurações, certificados e substitutos autorizados.",
+    "titulo": "Acessos"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Registre as pendências e o responsável pelo acompanhamento.",
+    "titulo": "Entrega"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: calendário de dezembro e agenda de tarefas. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "O diagnóstico precisa sair do papel e chegar à operação. Liste vencimentos e transmissões do período aplicáveis aos clientes. Confirme procurações, certificados e substitutos autorizados. Registre as pendências e o responsável pelo acompanhamento. Compartilhe com um colega do tributário.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Sua equipe já organizou o recesso fiscal?",
+    "sticker": "Sim / Em andamento"
+   },
+   {
+    "hora": "12h",
+    "texto": "Organize pendências de notas e informações ainda não recebidas.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F10, F11; validação interna",
+  "roteiro": ""
+ },
+ {
+  "id": "P50",
+  "data": "21/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Compliance",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Defina responsável por avisos, prazos e acessos durante a pausa.",
+    "titulo": "Quem acompanha as notificações fiscais durante o recesso?"
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D B — Tipográfico, sem foto obrigatória. Branco editorial, marinho e turquesa escuro. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; calendário abstrato sem datas extras.",
+  "legenda": "Desejamos uma pausa tranquila para os profissionais que encerram o ano com tantas responsabilidades. Combine a cobertura de obrigações antes do recesso.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Registre as pendências e o responsável pelo acompanhamento.",
+    "sticker": "Caixa de perguntas sobre Compliance"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre compliance?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F10, F11; validação interna",
+  "roteiro": ""
+ },
+ {
+  "id": "P51",
+  "data": "22/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Recuperação fiscal",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Você identificou um crédito em 2026. Consegue reconstruir o cálculo?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Preserve documentos de origem e comprovantes de recolhimento.",
+    "titulo": "Arquive"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Vincule a memória de cálculo à escrituração do período.",
+    "titulo": "Concilie"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Registre pedidos, compensações, decisões e pendências.",
+    "titulo": "Acompanhe"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Respeite prazos legais de guarda e regras de acesso aos dados.",
+    "titulo": "Proteja"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: arquivo fiscal e memória de cálculo sem dados reais. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na análise fiscal, vale começar pelo dado que sustenta a decisão. Preserve documentos de origem e comprovantes de recolhimento. Registre pedidos, compensações, decisões e pendências. Respeite prazos legais de guarda e regras de acesso aos dados. Salve para usar na próxima revisão fiscal.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você guarda a memória junto com a documentação?",
+    "sticker": "Sim / Em revisão"
+   },
+   {
+    "hora": "12h",
+    "texto": "Vincule a memória de cálculo à escrituração do período.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P52",
+  "data": "22/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Recuperação fiscal",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Da origem do crédito ao procedimento de utilização.",
+    "titulo": "Sem trilha documental, como defender o crédito utilizado?"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição editorial central com objeto em segundo plano e texto claramente legível. Visual: documentos organizados em pasta.",
+  "legenda": "A organização documental facilita a revisão de um crédito e a resposta a questionamentos. Qual etapa é mais difícil para a sua equipe?",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Respeite prazos legais de guarda e regras de acesso aos dados.",
+    "sticker": "Caixa de perguntas sobre Recuperação fiscal"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre recuperação fiscal?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P53",
+  "data": "23/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Agronegócio",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Diferimento no agro: quem vai recolher o imposto, e quando?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Mapeie produto, etapa da cadeia e localização da operação.",
+    "titulo": "Identifique"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Confira as hipóteses e requisitos na legislação estadual.",
+    "titulo": "Condições"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Verifique quando e por quem o imposto será exigido.",
+    "titulo": "Encerramento"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Avalie o novo sistema sem antecipar mudanças não confirmadas para a operação.",
+    "titulo": "Transição"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: caminhão graneleiro e silos. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Esse é um ponto que merece atenção na revisão dos clientes. Mapeie produto, etapa da cadeia e localização da operação. Verifique quando e por quem o imposto será exigido. Avalie o novo sistema sem antecipar mudanças não confirmadas para a operação. Envie para quem trabalha com essa pauta.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual tema do agro devemos aprofundar?",
+    "sticker": "Diferimento / Créditos"
+   },
+   {
+    "hora": "12h",
+    "texto": "Confira as hipóteses e requisitos na legislação estadual.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P54",
+  "data": "23/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Agronegócio",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Entenda o momento e a responsabilidade pelo recolhimento.",
+    "titulo": "Diferimento não é sinônimo de isenção."
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição editorial equilibrada entre texto e elemento visual, sem posição obrigatória. Visual: grãos de soja em fotografia macro.",
+  "legenda": "A legislação do agro possui tratamentos específicos. Confira a operação e as condições previstas antes de orientar o produtor.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Avalie o novo sistema sem antecipar mudanças não confirmadas para a operação.",
+    "sticker": "Caixa de perguntas sobre Agronegócio"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre agronegócio?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P55",
+  "data": "24/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Ecossistema",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Chegou uma autuação fiscal. Quem precisa sentar à mesa?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Reconstrua o fato e os dados da apuração.",
+    "titulo": "Fiscal"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Examine a notificação, a base legal e a estratégia de resposta.",
+    "titulo": "Jurídico"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Avalie exposição, garantias e impactos sobre o caixa.",
+    "titulo": "Financeiro"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Defina responsáveis e organize o material antes de decidir.",
+    "titulo": "Equipe"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: envelope de notificação fiscal sem dados. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na prática, a resposta depende dos detalhes da operação. Reconstrua o fato e os dados da apuração. Avalie exposição, garantias e impactos sobre o caixa. Defina responsáveis e organize o material antes de decidir. Qual desses pontos exige mais atenção na sua rotina?",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual parceria faz mais sentido para você?",
+    "sticker": "Contador / Tributarista"
+   },
+   {
+    "hora": "12h",
+    "texto": "Examine a notificação, a base legal e a estratégia de resposta.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F10, F11; validação interna",
+  "roteiro": ""
+ },
+ {
+  "id": "P56",
+  "data": "24/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Ecossistema",
+  "publico": "Contadores e advogados tributaristas | Relacionamento",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "A integração entre especialidades fortalece a análise tributária.",
+    "titulo": "Antes de responder à autuação, alinhe os fatos com a equipe fiscal."
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição editorial central com objeto em segundo plano e texto claramente legível. Visual: foto real autorizada de reunião de trabalho.",
+  "legenda": "Conectar competências ajuda a discutir casos de forma mais completa, respeitando o sigilo e as responsabilidades de cada profissional. Qual especialidade complementa a sua?",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Defina responsáveis e organize o material antes de decidir.",
+    "sticker": "Caixa de perguntas sobre Ecossistema"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre ecossistema?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F10, F11; validação interna",
+  "roteiro": ""
+ },
+ {
+  "id": "P57",
+  "data": "25/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Natal",
+  "publico": "Comunidade EcoFiscal | Relacionamento",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Aos profissionais que fizeram o tributário acontecer em 2026."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Aos profissionais que estudam e acompanham as mudanças de perto.",
+    "titulo": "Quem orienta"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Às empresas que compartilham decisões e desafios com suas equipes.",
+    "titulo": "Quem confia"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Aos colegas e parceiros que tornam possível o trabalho colaborativo.",
+    "titulo": "Quem caminha junto"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Que o Natal seja um momento de descanso e encontro.",
+    "titulo": "Boas festas"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: foto real autorizada da equipe ou tipografia. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Aos contadores, advogados tributaristas, empresários e parceiros que confiaram em nosso trabalho neste ano: desejamos um Natal de descanso e boas companhias. Obrigado por fazer parte da EcoFiscal.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Uma mensagem da EcoFiscal para quem caminhou conosco este ano.",
+    "sticker": "Nenhum"
+   },
+   {
+    "hora": "12h",
+    "texto": "Às empresas que compartilham decisões e desafios com suas equipes.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "Aprovação institucional.",
+  "roteiro": ""
+ },
+ {
+  "id": "P58",
+  "data": "25/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Natal",
+  "publico": "Comunidade EcoFiscal | Relacionamento",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "A EcoFiscal deseja boas festas a clientes, profissionais e parceiros.",
+    "titulo": "Feliz Natal."
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição editorial equilibrada entre texto e elemento visual, sem posição obrigatória. Visual: elemento natalino discreto azul e branco, sem pessoas.",
+  "legenda": "Que este Natal seja vivido com serenidade e boas companhias. Obrigado por fazer parte da nossa comunidade.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Que o Natal seja um momento de descanso e encontro.",
+    "sticker": "Caixa de perguntas sobre Natal"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Boas festas, comunidade EcoFiscal!",
+    "sticker": "Nenhum"
+   }
+  ],
+  "validacao": "Aprovação institucional.",
+  "roteiro": ""
+ },
+ {
+  "id": "P59",
+  "data": "26/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Transação tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "O que pode fazer uma transação tributária ser rescindida?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Confirme quais débitos e contribuintes são contemplados.",
+    "titulo": "Elegibilidade"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Verifique entrada, parcelas, garantias e obrigações previstas.",
+    "titulo": "Condições"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Identifique as hipóteses de descumprimento e seus efeitos.",
+    "titulo": "Rescisão"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Defina como a empresa vai controlar o acordo depois da adesão.",
+    "titulo": "Acompanhamento"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: documento de acordo e calendário. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "O diagnóstico precisa sair do papel e chegar à operação. Confirme quais débitos e contribuintes são contemplados. Identifique as hipóteses de descumprimento e seus efeitos. Defina como a empresa vai controlar o acordo depois da adesão. Compartilhe com um colega do tributário.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você acompanha acordos depois da adesão?",
+    "sticker": "Sim / Preciso estruturar"
+   },
+   {
+    "hora": "12h",
+    "texto": "Verifique entrada, parcelas, garantias e obrigações previstas.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F8, F9; F12 (calculadora oficial de transação, recurso de apoio, sem promessa de condições).",
+  "roteiro": ""
+ },
+ {
+  "id": "P60",
+  "data": "26/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Transação tributária",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "A manutenção do acordo precisa entrar na rotina da empresa.",
+    "titulo": "Acordo assinado não significa risco encerrado."
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D A — Tipográfico, sem foto obrigatória. Marinho editorial, branco e turquesa. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; frase editorial.",
+  "legenda": "Consulte as modalidades e editais vigentes na data da análise. Descontos e prazos variam conforme a situação. Salve esta lista.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Defina como a empresa vai controlar o acordo depois da adesão.",
+    "sticker": "Caixa de perguntas sobre Transação tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre transação tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F8, F9; F12 (calculadora oficial de transação, recurso de apoio, sem promessa de condições).",
+  "roteiro": ""
+ },
+ {
+  "id": "P61",
+  "data": "27/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Quais clientes podem sentir primeiro os efeitos da reforma?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Priorize operações com muitos produtos, estados ou tratamentos diferentes.",
+    "titulo": "Complexidade"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Identifique clientes com margens sensíveis e contratos de longo prazo.",
+    "titulo": "Exposição"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Veja quais emissores e integrações ainda não foram testados.",
+    "titulo": "Sistemas"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Defina responsáveis, prazos e critérios de acompanhamento por cliente.",
+    "titulo": "Plano"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: agenda de atendimento e documentos. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na análise fiscal, vale começar pelo dado que sustenta a decisão. Priorize operações com muitos produtos, estados ou tratamentos diferentes. Veja quais emissores e integrações ainda não foram testados. Defina responsáveis, prazos e critérios de acompanhamento por cliente. Salve para usar na próxima revisão fiscal.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual setor exige mais atenção na sua carteira?",
+    "sticker": "Comércio / Serviços"
+   },
+   {
+    "hora": "12h",
+    "texto": "Identifique clientes com margens sensíveis e contratos de longo prazo.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P62",
+  "data": "27/12/2026",
+  "hora": "18h",
+  "formato": "REELS",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ABERTURA FALADA",
+    "apoio": "",
+    "titulo": "Não trate todos os clientes da mesma forma na virada tributária."
+   }
+  ],
+  "direcao": "Referência original R5 / R7. Reels: vídeo original do André, plano médio, fundo real, legenda Poppins 44 px dentro da área segura; sem capa separada. Use o título como abertura falada, não crie arte estática.",
+  "legenda": "Não trate todos os clientes como se tivessem a mesma exposição. Qual dúvida você quer aprofundar?",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Defina responsáveis, prazos e critérios de acompanhamento por cliente.",
+    "sticker": "Caixa de perguntas sobre Reforma Tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre reforma tributária?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": "Não trate todos os clientes como se tivessem a mesma exposição. Separe por complexidade da operação, dependência de sistemas e sensibilidade de margem. Depois, defina o que precisa ser validado primeiro e quem vai acompanhar. Qual setor da sua carteira exige mais atenção?"
+ },
+ {
+  "id": "P63",
+  "data": "28/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Masterclass",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "O que precisa constar em um diagnóstico tributário de verdade?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Delimite a operação, o tributo e o período analisado.",
+    "titulo": "Escopo"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Entregue os dados e documentos que sustentam as conclusões.",
+    "titulo": "Evidências"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Apresente alternativas, limitações e riscos de cada cenário.",
+    "titulo": "Recomendação"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Defina o que faz parte do projeto e o que exige nova contratação.",
+    "titulo": "Acompanhamento"
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição lateral: objeto à direita e texto à esquerda, sem sobreposição. Visual: relatório de diagnóstico aberto. Internos 2–4: branco, marinho/turquesa; listas ou comparações alinhadas. Card 5: marinho, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Esse é um ponto que merece atenção na revisão dos clientes. Delimite a operação, o tributo e o período analisado. Apresente alternativas, limitações e riscos de cada cenário. Defina o que faz parte do projeto e o que exige nova contratação. Envie para quem trabalha com essa pauta.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual entrega você tem dificuldade de delimitar?",
+    "sticker": "Diagnóstico / Acompanhamento"
+   },
+   {
+    "hora": "12h",
+    "texto": "Entregue os dados e documentos que sustentam as conclusões.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F10, F11; validação interna; confirmar materiais, agenda, CTA e dados oficiais do evento; não inventar informações.",
+  "roteiro": ""
+ },
+ {
+  "id": "P64",
+  "data": "28/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Masterclass",
+  "publico": "Contadores e advogados tributaristas | Conversão / interesse no evento",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Serviços tributários, escopo e valor profissional.",
+    "titulo": "O mapa secreto dos honorários de 2027.",
+    "kicker": "MASTERCLASS"
+   }
+  ],
+  "direcao": "Referência original R7 / R5. Evento: identidade oficial do evento e logo original EcoFiscal quando autorizada. Tipografia editorial, sem foto inventada; não alterar a identidade oficial da Masterclass. Confirmar data, chamada, link e autorização antes da produção.",
+  "legenda": "A discussão sobre honorários precisa partir de entregas reais e responsabilidades técnicas. Escreva MASTERCLASS no direct para receber as informações quando aprovadas.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Defina o que faz parte do projeto e o que exige nova contratação.",
+    "sticker": "Caixa de perguntas sobre Masterclass"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Quer acompanhar a Masterclass de 2027?",
+    "sticker": "Direct: MASTERCLASS"
+   }
+  ],
+  "validacao": "F10, F11; validação interna; confirmar materiais, agenda, CTA e dados oficiais do evento; não inventar informações.",
+  "roteiro": ""
+ },
+ {
+  "id": "P65",
+  "data": "29/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "ICMS MT",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "ICMS em Mato Grosso: por que uma resposta de outro estado pode não servir?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Identifique qual estado disciplina a operação analisada.",
+    "titulo": "Competência"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Consulte a legislação estadual e as regras nacionais pertinentes.",
+    "titulo": "Norma"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Verifique as alterações e a data do fato gerador.",
+    "titulo": "Vigência"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Avalie o procedimento de consulta formal quando cabível.",
+    "titulo": "Dúvida"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso, branco e turquesa de contraste; objeto visual protagonista, composição lateral ou central. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: mapa estilizado de MT e documento fiscal. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "Na prática, a resposta depende dos detalhes da operação. Identifique qual estado disciplina a operação analisada. Verifique as alterações e a data do fato gerador. Avalie o procedimento de consulta formal quando cabível. Qual desses pontos exige mais atenção na sua rotina?",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Você atende operações em mais de um estado?",
+    "sticker": "Sim / Não"
+   },
+   {
+    "hora": "12h",
+    "texto": "Consulte a legislação estadual e as regras nacionais pertinentes.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P66",
+  "data": "29/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "ICMS MT",
+  "publico": "Contadores e advogados tributaristas | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Consulte a legislação e a operação concreta.",
+    "titulo": "Antes de replicar uma regra de ICMS, confira a UF e a operação."
+   }
+  ],
+  "direcao": "Referência original R7 / R5. D B — Tipográfico, sem foto obrigatória. Branco editorial, marinho e turquesa escuro. Use contraste de peso e cor, sem áreas vazias excessivas. Visual: sem foto; composição editorial.",
+  "legenda": "A EcoFiscal trabalha com a discussão técnica de situações tributárias. Consulte o regulamento atualizado e o tratamento aplicável antes de concluir.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Avalie o procedimento de consulta formal quando cabível.",
+    "sticker": "Caixa de perguntas sobre ICMS MT"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Qual é sua maior dúvida sobre icms mt?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F4, F5",
+  "roteiro": ""
+ },
+ {
+  "id": "P67",
+  "data": "30/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Planejamento tributário 2027",
+  "publico": "Contadores e advogados tributaristas | Salvamentos e compartilhamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Antes de simular 2027, confira estes 3 dados de 2026."
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Separe as receitas conforme a atividade e o perfil de venda.",
+    "titulo": "1. Receita por operação"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Identifique a origem dos insumos e o tratamento tributário das aquisições.",
+    "titulo": "2. Compras e fornecedores"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Mapeie preços, prazos e cláusulas que podem exigir revisão.",
+    "titulo": "3. Contratos em andamento"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Use premissas documentadas e a legislação vigente.",
+    "titulo": "Agora compare cenários."
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial. Capa: agenda aberta e documentos comerciais sem dados reais, fotografia licenciada integrada ao fundo claro; número 3 e palavra “2026” em turquesa escuro. Internos 2–4 brancos, títulos em marinho, números com destaque turquesa e apoio alinhado à esquerda; card 5 azul profundo e texto branco. Sem cortes laterais ou fotos repetidas; logo oficial no rodapé.",
+  "legenda": "A qualidade da simulação depende dos dados de partida. Receita, compras e contratos ajudam a identificar onde vale aprofundar a análise para 2027. Use cenários e valide a legislação aplicável antes de orientar mudanças. Salve para a reunião de planejamento.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Os dados de 2026 já estão organizados para a simulação?",
+    "sticker": "Enquete: Sim / Em andamento"
+   },
+   {
+    "hora": "12h",
+    "texto": "Receita, compras e contratos: três pontos de partida.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2; roteiro de diagnóstico, não prescrição de regime ou promessa de economia; revisar norma vigente.",
+  "roteiro": ""
+ },
+ {
+  "id": "P68",
+  "data": "30/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Inteligência empresarial",
+  "publico": "Empresários e gestores | Alcance e conversa",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Antes de reajustar, coloque custos, tributos e contratos na mesma conta.",
+    "titulo": "Seu preço de 2026 ainda sustenta a margem de 2027?"
+   }
+  ],
+  "direcao": "Referência original R1 / R6. C — Azul intenso com branco e turquesa. Objeto protagonista: etiqueta de preço em embalagem de mercadoria, fotografia real integrada ao cenário à direita; título amplo à esquerda, com destaque em “margem”. Apoio logo abaixo e marca original no rodapé. Se a fotografia não couber sem comprometer a leitura, composição tipográfica.",
+  "legenda": "Antes de definir novos preços, revise a composição dos custos, os efeitos tributários aplicáveis e as condições comerciais já contratadas. A comparação deve considerar a margem e o fluxo financeiro do negócio. Leve essa pergunta para a próxima reunião com a equipe fiscal.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Sua empresa já começou a revisar os preços para 2027?",
+    "sticker": "Enquete: Sim / Ainda não"
+   },
+   {
+    "hora": "19h30",
+    "texto": "O que pesa mais na sua decisão de preço?",
+    "sticker": "Caixa de perguntas"
+   }
+  ],
+  "validacao": "F1, F2; validar tecnicamente a aplicação ao setor e evitar estimativas de alíquota ou economia sem dados.",
+  "roteiro": ""
+ },
+ {
+  "id": "P69",
+  "data": "31/12/2026",
+  "hora": "09h",
+  "formato": "CARROSSEL",
+  "tema": "Reforma Tributária",
+  "publico": "Contadores e advogados tributaristas | Autoridade e salvamentos",
+  "cards": [
+   {
+    "rotulo": "CAPA",
+    "apoio": "",
+    "titulo": "Amanhã começa 2027. O que conferir na primeira nota do ano?"
+   },
+   {
+    "rotulo": "CARD 02",
+    "apoio": "Confira o tratamento da CBS aplicável à operação e o encerramento de PIS e Cofins conforme a legislação.",
+    "titulo": "CBS"
+   },
+   {
+    "rotulo": "CARD 03",
+    "apoio": "Confira as regras aplicáveis ao período, sem esquecer ICMS e ISS.",
+    "titulo": "IBS"
+   },
+   {
+    "rotulo": "CARD 04",
+    "apoio": "Valide a emissão e a conciliação dos documentos desde o início do ano.",
+    "titulo": "Operação"
+   },
+   {
+    "rotulo": "CARD 05",
+    "apoio": "Mantenha a equipe informada sobre os atos oficiais e as mudanças de sistema.",
+    "titulo": "Acompanhamento"
+   }
+  ],
+  "direcao": "Referência original R2 / R1. A — Marinho editorial, branco e turquesa; foto de fundo integrada com área de leitura ou objeto integral bem composto. Composição fotográfica integrada, com bloco de texto dominante na área de melhor contraste; sem posição obrigatória. Visual: calendário da virada e nota fiscal ilustrativa. Internos 2–4: marinho e branco em cards inteiros, alternando com lógica narrativa; blocos de texto coesos. Card 5: branco, conclusão em destaque. Sem foto nos internos salvo se realmente necessária e aprovada.",
+  "legenda": "O diagnóstico precisa sair do papel e chegar à operação. Confira o tratamento da CBS aplicável à operação e o encerramento de PIS e Cofins conforme a legislação. Valide a emissão e a conciliação dos documentos desde o início do ano. Mantenha a equipe informada sobre os atos oficiais e as mudanças de sistema. Compartilhe com um colega do tributário.",
+  "stories": [
+   {
+    "hora": "08h",
+    "texto": "Qual assunto tributário você quer estudar em janeiro?",
+    "sticker": "IBS e CBS / ICMS"
+   },
+   {
+    "hora": "12h",
+    "texto": "Confira as regras aplicáveis ao período, sem esquecer ICMS e ISS.",
+    "sticker": "Recompartilhar publicação da manhã"
+   }
+  ],
+  "validacao": "F1, F2, F3",
+  "roteiro": ""
+ },
+ {
+  "id": "P70",
+  "data": "31/12/2026",
+  "hora": "18h",
+  "formato": "CARD ÚNICO",
+  "tema": "Reforma Tributária",
+  "publico": "Comunidade EcoFiscal | Relacionamento",
+  "cards": [
+   {
+    "rotulo": "ARTE ÚNICA",
+    "apoio": "Feliz Ano Novo.",
+    "titulo": "Que 2027 seja um ano de boas decisões."
+   }
+  ],
+  "direcao": "Referência original R3 / R4. B — Branco editorial, marinho e turquesa escuro; imagem integrada ao branco ou composição tipográfica com formas discretas. Composição editorial equilibrada entre texto e elemento visual, sem posição obrigatória. Visual: composição tipográfica festiva discreta azul e branco.",
+  "legenda": "Que 2027 seja um ano de boas decisões, aprendizado e relações profissionais duradouras. Agradecemos a todos que caminham com a EcoFiscal.",
+  "stories": [
+   {
+    "hora": "15h",
+    "texto": "Mantenha a equipe informada sobre os atos oficiais e as mudanças de sistema.",
+    "sticker": "Caixa de perguntas sobre Reforma Tributária"
+   },
+   {
+    "hora": "19h30",
+    "texto": "Boas festas, comunidade EcoFiscal!",
+    "sticker": "Nenhum"
+   }
+  ],
+  "validacao": "F1, F2, F3 4. Fontes e conferência Fontes mantidas da pesquisa pública anterior, de 27/11/2026; não houve nova verificação nesta revisão visual. Links para conferência; não são textos da arte. A base editorial reaproveita a estrutura técnica do plano anterior, com hooks, composição e processo de produção revisados. As pautas não equivalem a parecer fiscal; validar com o responsável técnico. F1 | Receita Federal | cronograma da reforma https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributar ia-do-consumo/entenda F2 | LC 214/2025 | texto compilado https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm F3 | Secom | regras de 2027 (26/11/2026) https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/reforma-tributaria-entend a-as-regras-que-passam-a-valer-a-partir-de-2027-3 F4 | SEFAZ-MT | legislação estadual https://www.sefaz.mt.gov.br/spl/portalpaginalegislacao F5 | SEFAZ-MT | consultas tributárias https://www.sefaz.mt.gov.br/legislacao/SubIndice.aspx?ID=99 F6 | Receita Federal | escolha do Simples em setembro https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-alerta-c omeca-hoje-o-prazo-para-opcao-pelo-simples-nacional-e-para-a-escolha-do-modelo-de-recolhime nto-do-ibs-e-da-cbs-em-2027 F7 | Receita Federal | resolução CGSN 196, notícia de 24/11/2026 https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simpl es-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributari a/ F8 | PGFN | transação e editais https://www.gov.br/pgfn/pt-br/servicos/orientacoes-contribuintes/acordo-de-transacao/ F9 | Receita Federal | transação tributária https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/transacao-tributaria F10 | Professor Fantoni | atuação pública https://professorfantoni.com.br/ F11 | Fantoni | cursos, ICMS e eventos https://hub.la/professorfantoni F12 | Receita Federal | calculadora de transação https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-disponi biliza-calculadora-para-apoiar-contribuintes-na-analise-de-opcoes-de-transacao-tributaria B1 | Portal Contábeis | rotinas dos escritórios em 2027 https://www.contabeis.com.br/noticias/81019/reforma-tributaria-2027-como-preparar-seu-escr B2 | Econet | conformidade IBS/CBS https://nfe.econeteditora.com.br/links_pagina_inicial/lista_noticias.php?id=46841&opcao=noticia B3 | APET | decisões empresariais na reforma https://apet.org.br/executive-program/ B4 | Domínio Sistemas | implantação da reforma https://www.dominiosistemas.com.br/blog/como-preparar-escritorio-contabil-reforma-tributaria/ Masterclass: confirmar data, materiais oficiais, disponibilidade e condições antes de divulgar.",
+  "roteiro": ""
+ }
+]
