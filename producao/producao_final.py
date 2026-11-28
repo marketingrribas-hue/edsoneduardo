@@ -37,7 +37,7 @@ LIGA = {'e', 'de', 'do', 'da', 'dos', 'das', 'no', 'na'}
 def base(w): return w.lower().strip('.,:;?!()"“”')
 
 def destaques(pal, maximo=2, forcar=True):
-    idx = [i for i, p in enumerate(pal) if base(p) in CH and not (base(p) == 'real' and (i == 0 or base(pal[i - 1]) != 'lucro'))]
+    idx = [i for i, p in enumerate(pal) if base(p) in CH and not (base(p) == 'real' and (i == 0 or base(pal[i - 1]) != 'lucro')) and not (base(p) == 'das' and p.strip('.,:;?!') != 'DAS')]
     tr, cur = [], []
     for i in idx:
         if cur and (i == cur[-1] + 1 or (i == cur[-1] + 2 and base(pal[i - 1]) in LIGA)):
@@ -238,7 +238,7 @@ def peca_feed(nome, titulo_doc, tom, var, titulo, apoio_txt='', kicker=None, tip
         y_txt = topo + max(0, livre) / 2
         if mot:
             mw, mh = 760, 760
-            corpo_extra = camada(f'Elemento gráfico (fundo) · {mot}', motivo(mot, (1080 - mw - 20, 1350 - mh - 260, mw, mh), claro, 0.16))
+            corpo_extra = camada(f'Elemento gráfico (fundo) · {mot}', motivo(mot, (1080 - mw - 20, 1350 - mh - 260, mw, mh), claro, 0.10))
     caixas = []
     camadas = [camada('Fundo', fc)]
     if estilo_int == 'barra':
@@ -281,15 +281,15 @@ def peca_story(nome, titulo_doc, tom, var, texto, mot):
     spec, maxw, x0 = ajusta(pal, marc, STO, 900, MARG, nome)
     T, TL, ls = spec
     lns = quebra(pal, marc, T, ls, maxw)
-    y1 = 520 + 0.74 * T
+    y1 = 700 + 0.74 * T
     caixas = []
     camadas = [camada('Fundo', fc)]
     if mot:
-        camadas.append(camada(f'Elemento gráfico · {mot}', motivo(mot, (240, 150, 600, 290), claro, 0.9)))
+        camadas.append(camada(f'Elemento gráfico · {mot}', motivo(mot, (240, 300, 600, 290), claro, 0.9)))
     camadas.append(camada(f'Texto · {T} px', render_linhas(pal, lns, marc, x0, y1, spec, cor, grad, 'start', (x0, maxw), caixas)))
     fim = y1 + (len(lns) - 1) * TL
-    if fim > 1250: LOG['qc_falhas'].append((nome, ['texto invade a área reservada ao sticker']))
-    qc(nome, caixas, H, logo_top, 45 if x0 == 45 else MARG, [(240, 150, 600, 290)] if mot else [])
+    if fim > 1300: LOG['qc_falhas'].append((nome, ['texto invade a área reservada ao sticker']))
+    qc(nome, caixas, H, logo_top, 45 if x0 == 45 else MARG, [(240, 300, 600, 290)] if mot else [])
     salvar(nome, titulo_doc, H, d, '\n'.join(camadas), logo_y)
 
 # ---------------- direção por publicação ----------------
@@ -359,7 +359,7 @@ for n, p in enumerate(PUBS):
             esq = (ESQUEMAS_CLARO if tom in ('branco', 'gelo') else ESQUEMAS_ESCURO)[n % (2 if tom in ('branco', 'gelo') else 3)]
             for k, c in enumerate(p['cards'][1:]):
                 peca_feed(nome_arq(p['data'], p['hora'], f'C{k + 2:02d}'), doc + f' · card {k + 2:02d}', esq[k], n + k + 1,
-                          c['titulo'], c['apoio'], None, 'interno', mot if est == 'barra' else None, 'base', 'start', est, k)
+                          c['titulo'], c['apoio'], None, 'interno', mot, 'base', 'start', est, k)
         else:
             c = p['cards'][0]
             alinhar = 'center' if (pos == 'fundo' and n % 2 == 0) else 'start'
