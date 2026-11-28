@@ -100,12 +100,20 @@ def capa(nome, doc, f, estilo_foto, titulo, apoio_txt='', kicker=None, tom_sem_f
     qc(nome, caixas, 1350, LOGO_TOP, 45 if x0 == 45 else MARG)
     salvar(nome, doc, 1350, d, '\n'.join(camadas), LOGO_TOP)
 
-# ---------------- card interno (padrão aprovado P01 02/03) ----------------
-def interno(nome, doc, tom, f_marca, titulo, apoio_txt, var):
+# ---------------- card interno (padrão aprovado P01 + moldura fotográfica, ref. CiT) ----------------
+def moldura(fdata, x, y, w, h, z, ax, ay, uid):
+    vw = 1080 / z; vh = vw * h / w
+    if vh > 1350: vh = 1350; vw = vh * w / h
+    vx = ax * (1080 - vw); vy = ay * (1350 - vh)
+    return (f'<clipPath id="cm{uid}"><rect x="{x}" y="{y:.0f}" width="{w}" height="{h:.0f}" rx="36"/></clipPath>',
+            f'<g clip-path="url(#cm{uid})"><svg x="{x}" y="{y:.0f}" width="{w}" height="{h:.0f}" viewBox="{vx:.0f} {vy:.0f} {vw:.0f} {vh:.0f}" preserveAspectRatio="xMidYMid slice">'
+            f'<image width="1080" height="1350" preserveAspectRatio="xMidYMid slice" xlink:href="{fdata}"/></svg></g>')
+
+def interno(nome, doc, tom, f_marca, titulo, apoio_txt, var, quadro=None, acima=True):
     claro = tom in ('branco', 'gelo')
     d, fc, _ = fundo(tom, var, 1350)
     extra = ''
-    if f_marca and not claro:
+    if f_marca and not claro and not quadro:
         d += '<linearGradient id="mfi" x1="0" y1="0" x2="1" y2="1"><stop offset="0.25" stop-color="#000"/><stop offset="0.8" stop-color="#fff"/></linearGradient><mask id="mfim"><rect width="1080" height="1350" fill="url(#mfi)"/></mask>'
         extra = camada('Fotografia · marca-d’água da capa', f'<g mask="url(#mfim)" opacity="0.26"><image x="-200" y="-150" width="1480" height="1650" preserveAspectRatio="xMidYMid slice" style="mix-blend-mode:luminosity" xlink:href="{f_marca}"/></g>')
     cor = NAV if claro else BR
@@ -121,13 +129,29 @@ def interno(nome, doc, tom, f_marca, titulo, apoio_txt, var):
         if nm and marc and max(nm) < min(marc): lns = [nm, sorted(marc)]
     _, ap = render_apoio(apoio_txt, x0, 0, maxw, cor_a, cor_d)
     alt = 0.74 * T + (len(lns) - 1) * TL + 140 + (ap - 1) * AL + 0.24 * A
-    y1 = 100 + (LOGO_TOP - 44 - 100 - alt) / 2 + 0.74 * T
+    topo, base = 100, LOGO_TOP - 44
+    obst = []
+    disp = base - topo - alt - 70
+    if quadro and disp >= 300:
+        fq, z, ax, ay = quadro
+        hq = min(500, disp)
+        if acima:
+            yq = topo; y_txt = topo + hq + 70
+        else:
+            y_txt = topo + max(0, (base - topo - alt - 70 - hq) / 2) if False else topo + 10; yq = y_txt + alt + 60
+        cdef, csvg = moldura(fq, 90, yq, 900, hq, z, ax, ay, nome[-3:])
+        d += cdef
+        extra = camada('Fotografia em moldura', csvg)
+        obst = [(90, yq, 900, hq)]
+    else:
+        y_txt = topo + (base - topo - alt) / 2
+    y1 = y_txt + 0.74 * T
     caixas = []
     camadas = [camada('Fundo', fc), extra,
                camada(f'Título interno · {T} px', render_linhas(pal, lns, marc, x0, y1, spec, cor, grad, 'start', (x0, maxw), caixas))]
     s, _ = render_apoio(apoio_txt, x0, y1 + (len(lns) - 1) * TL + 140, maxw, cor_a, cor_d, 'start', (x0, maxw), caixas)
     camadas.append(camada(f'Texto complementar · {A} px', s))
-    qc(nome, caixas, 1350, LOGO_TOP, 45 if x0 == 45 else MARG)
+    qc(nome, caixas, 1350, LOGO_TOP, 45 if x0 == 45 else MARG, obst)
     salvar(nome, doc, 1350, d, '\n'.join(camadas), LOGO_TOP)
 
 # ---------------- Stories (1080 × 1920) ----------------
@@ -181,6 +205,10 @@ F = {
  'P64': ('1741711333479', 'centro'), 'P65': ('1556114846', 'relogio'), 'P67': ('1535320903710', 'branco'),
  'P68': ('1621831337128', 'relogio'), 'P69': ('1691525891769', 'topo'), 'P70': ('1672718945831', 'centro'),
 }
+F2 = {'P15': '1600747476236', 'P53': '1785843931904', 'P65': '1774655852740', 'P47': '1590496793907', 'P69': '1690944851207',
+      'P29': '1732532973440', 'P35': '1521791055366', 'P57': '1628178765964', 'P17': '1745270917449', 'P19': '1618582948377',
+      'P21': '1684607961356', 'P37': '1694885156873', 'P11': '1603294278610', 'P25': '1690944851207', 'P61': '1771678040857',
+      'P09': '1762427354566', 'P41': '1605732562742', 'P53b': ''}
 TIPO = {'P10': 'branco', 'P18': 'marinho', 'P20': 'vibrante', 'P26': 'gelo', 'P32': 'royal', 'P46': 'branco',
         'P48': 'marinho', 'P50': 'gelo', 'P60': 'royal', 'P66': 'branco'}
 FOTO_ST = {'P01': None, 'P02': None, 'P03': '1644079446600', 'P04': None, 'P05': None, 'P06': None, 'P07': None, 'P08': None,
@@ -211,8 +239,10 @@ for n, p in enumerate(PUBS):
             capa(nome('C01'), doc + ' · capa', f, est, c0['titulo'], c0.get('apoio', ''), c0.get('kicker'), TIPO.get(pid, 'marinho'), n)
             claro_capa = est == 'branco' or (f is None and TIPO.get(pid) in ('branco', 'gelo'))
             esq = (ESQ_CLARA if claro_capa else ESQ_ESCURA)[n % (2 if claro_capa else 3)]
+            f2 = foto(F2[pid]) if pid in F2 else None
+            quadros = [(f, 1.9, 0.25, 0.35) if f else None, (f2, 1.15, 0.5, 0.5) if f2 else None, (f, 2.3, 0.8, 0.6) if f else None, None]
             for k, c in enumerate(p['cards'][1:]):
-                interno(nome(f'C{k + 2:02d}'), doc + f' · card {k + 2:02d}', esq[k], f, c['titulo'], c['apoio'], n + k)
+                interno(nome(f'C{k + 2:02d}'), doc + f' · card {k + 2:02d}', esq[k], f, c['titulo'], c['apoio'], n + k, quadros[k], k != 2)
         else:
             capa(nome('C01'), doc + ' · card único', f, est, c0['titulo'], c0['apoio'], c0.get('kicker'), TIPO.get(pid, 'marinho'), n,
                  'center' if (f is None and n % 2 == 0) else None)
