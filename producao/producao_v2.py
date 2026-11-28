@@ -12,10 +12,29 @@ if os.path.isdir(OUT): shutil.rmtree(OUT)
 os.makedirs(OUT)
 PUBS = N.PUBS
 
+CAMINHO = {}
 def foto(pid_foto):
     f = glob.glob(os.path.join(AQUI, 'fotos_prep', f'*{pid_foto}*.jpg'))
     if not f: raise SystemExit('foto não encontrada: ' + pid_foto)
-    return 'data:image/jpeg;base64,' + base64.b64encode(open(f[0], 'rb').read()).decode()
+    dado = 'data:image/jpeg;base64,' + base64.b64encode(open(f[0], 'rb').read()).decode()
+    CAMINHO[dado[-64:]] = f[0]
+    return dado
+
+from PIL import Image, ImageStat
+def melhor_recorte(fdata, z, w, h, evitar=None):
+    caminho = CAMINHO.get(fdata[-64:])
+    if not caminho: return 0.5, 0.5
+    im = Image.open(caminho).convert('L').resize((1080, 1350))
+    vw = 1080 / z; vh = vw * h / w
+    if vh > 1350: vh = 1350; vw = vh * w / h
+    melhor = (-1, 0.5, 0.5)
+    for ax in (0.15, 0.35, 0.5, 0.65, 0.85):
+        for ay in (0.2, 0.35, 0.5, 0.65, 0.8):
+            if evitar and abs(ax - evitar[0]) < 0.25 and abs(ay - evitar[1]) < 0.25: continue
+            x, y = ax * (1080 - vw), ay * (1350 - vh)
+            st = ImageStat.Stat(im.crop((int(x), int(y), int(x + vw), int(y + vh)))).stddev[0]
+            if st > melhor[0]: melhor = (st, ax, ay)
+    return melhor[1], melhor[2]
 
 LOGO_TOP = 1350 - 50 - LOGO_H
 
@@ -135,6 +154,7 @@ def interno(nome, doc, tom, f_marca, titulo, apoio_txt, var, quadro=None, acima=
     if quadro and disp >= 300:
         fq, z, ax, ay = quadro
         hq = min(500, disp)
+        ax, ay = melhor_recorte(fq, z, 900, hq, (ax, ay) if ax > 0.7 else None)
         if acima:
             yq = topo; y_txt = topo + hq + 70
         else:

@@ -7,7 +7,7 @@ from PIL import Image
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(AQUI)
-SVG = os.path.join(AQUI, 'final_svg')
+SVG = os.path.join(AQUI, 'entrega_svg')
 ENT = os.path.join(RAIZ, 'entregas_ecofiscal')
 PUBS = json.load(open(os.path.join(AQUI, 'planejamento.json')))
 
@@ -98,6 +98,18 @@ for sem, ini, fim in SEMANAS:
                 z.write(os.path.join(r, f), os.path.relpath(os.path.join(r, f), ENT))
     print(sem, 'feed', len(feed), 'arquivos', len(todas))
 
+# prévia completa do feed (3 colunas, ordem real; mais recente no alto à esquerda)
+capas = []
+for p in PUBS:
+    if p['formato'] == 'REELS': continue
+    d_, m_, a_ = p['data'].split('/')
+    capas.append(os.path.join(SVG, nome(p['data'], p['hora'], 'C01') + '.png'))
+capas = list(reversed(capas)); W, H = 300, 375
+lin = (len(capas) + 2) // 3
+grade = Image.new('RGB', (3 * W + 4 * 4, lin * (H + 4) + 4), '#FFFFFF')
+for i, f in enumerate(capas):
+    grade.paste(Image.open(f).convert('RGB').resize((W, H)), (4 + (i % 3) * (W + 4), 4 + (i // 3) * (H + 4)))
+grade.save(os.path.join(ENT, 'PREVIA_FEED_COMPLETO.png'))
 open(os.path.join(ENT, 'PENDENCIAS.md'), 'w').write('# Pendências\n\n' + '\n'.join('- ' + x for x in pendencias) + '\n')
 # fontes e instruções
 shutil.copytree(os.path.join(AQUI, 'fontes'), os.path.join(ENT, 'fontes_montserrat'))
