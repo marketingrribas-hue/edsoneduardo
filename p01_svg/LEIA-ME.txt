@@ -1,0 +1,11 @@
+EcoFiscal — P01 (capa + 2 cards internos) — arquivos editáveis
+
+Abrir os .svg no Inkscape (gratuito). Antes, instale as fontes da pasta "fontes"
+(Montserrat Regular, Medium, SemiBold e Bold — licença SIL OFL).
+
+- Todo o texto é texto real editável, em camadas nomeadas.
+- As palavras estratégicas têm degradê linear (#20B4F5 → #00D6DC → #00E6A0)
+  aplicado no preenchimento das letras; nos fundos brancos, degradê escuro
+  (#1246C9 → #0A6FB8 → #007B8C).
+- Fotografia e logomarca oficial estão incorporadas ao arquivo.
+- PNG 1080 × 1350 exportados pelo próprio Inkscape.
