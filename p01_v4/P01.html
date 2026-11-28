@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>EcoFiscal P01 v4</title>
+<style>
+@font-face{font-family:Montserrat;font-weight:400;src:url(fonts/montserrat-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:Montserrat;font-weight:500;src:url(fonts/montserrat-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:Montserrat;font-weight:700;src:url(fonts/montserrat-latin-700-normal.woff2) format("woff2")}
+:root{
+  --t-capa:106px; --lh-capa:116px;
+  --t-int:92px;  --lh-int:102px;
+  --t-apoio:60px; --lh-apoio:80px;
+  --m:90px;
+  --grad-escuro:linear-gradient(90deg,#20B4F5 0%,#00D6DC 50%,#00E6A0 100%);
+  --grad-claro:linear-gradient(90deg,#1246C9 0%,#0A6FB8 50%,#007B8C 100%);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Montserrat,sans-serif;-webkit-font-smoothing:antialiased}
+.art{width:1080px;height:1350px;position:relative;overflow:hidden}
+.camada{position:absolute;inset:0}
+.texto{position:absolute;left:var(--m);right:var(--m);z-index:5}
+.logo{position:absolute;left:370px;bottom:60px;width:340px;z-index:6}
+.r{font-weight:400}.m{font-weight:500}.b{font-weight:700}
+.g{display:inline-block;-webkit-background-clip:text;background-clip:text;color:transparent;padding-right:3px}
+.ge{background-image:var(--grad-escuro)}
+.gc{background-image:var(--grad-claro)}
+.tc{font-size:var(--t-capa);line-height:var(--lh-capa);letter-spacing:-2px}
+.ti{font-size:var(--t-int);line-height:var(--lh-int);letter-spacing:-1.6px}
+.ap{font-size:var(--t-apoio);line-height:var(--lh-apoio);letter-spacing:-.6px}
+
+/* ============ CAPA — marinho editorial com fotografia integrada (ref. carrossel rotina/liberdade) ============ */
+#capa{background:#061A38}
+#capa .foto{background:url(ativos/capa_expedicao.png) center top/1080px auto no-repeat}
+#capa .tom{background:
+  linear-gradient(180deg,rgba(6,26,56,.10) 0%,rgba(6,26,56,0) 22%,rgba(6,26,56,.55) 40%,rgba(6,26,56,.92) 52%,#061A38 66%),
+  linear-gradient(90deg,rgba(9,38,83,.35) 0%,rgba(9,38,83,0) 60%)}
+#capa .texto{top:590px}
+#capa h1{color:#fff}
+#capa .ap{margin-top:40px;color:#E4ECF7}
+
+/* ============ CARD 02 — branco corporativo com fotografia (ref. carrosséis claros / Whost) ============ */
+#c02{background:linear-gradient(180deg,#FFFFFF 0%,#F3F5F8 100%)}
+#c02 .foto{position:absolute;left:0;top:0;width:1080px;height:600px;
+  background:url(ativos/c02_lista.png) center 38%/1180px auto no-repeat;
+  clip-path:path('M0 0 H1080 V520 C 860 600, 640 610, 420 585 C 250 566, 110 560, 0 590 Z')}
+#c02 .fio{position:absolute;left:0;top:0;width:1080px;height:640px;z-index:2}
+#c02 .texto{top:668px}
+#c02 h2{color:#092653}
+#c02 .ap{margin-top:36px;color:#1C2F52}
+#c02 .ap .b{color:#007B8C}
+
+/* ============ CARD 03 — marinho com fotografia de cadeia logística ============ */
+#c03{background:#061A38}
+#c03 .foto{background:url(ativos/c03_cd.png) 58% center/auto 1350px no-repeat;filter:saturate(.72)}
+#c03 .tom{background:
+  linear-gradient(180deg,#061A38 0%,rgba(6,26,56,.94) 30%,rgba(6,26,56,.55) 50%,rgba(6,26,56,.15) 66%,rgba(6,26,56,.55) 84%,#061A38 100%),
+  linear-gradient(0deg,rgba(9,38,83,.30),rgba(9,38,83,.30))}
+#c03 .texto{top:150px}
+#c03 h2{color:#fff}
+#c03 .ap{margin-top:36px;color:#E4ECF7}
+#c03 .ap .b{color:#fff}
+</style>
+</head>
+<body>
+
+<section class="art" id="capa">
+  <div class="camada foto"></div>
+  <div class="camada tom"></div>
+  <div class="texto">
+    <h1 class="tc"><span class="r">Seu cliente do</span><br><span class="b g ge">Simples</span><span class="r"> vende</span><br><span class="r">para </span><span class="b g ge">empresas?</span></h1>
+    <p class="ap"><span class="r">A escolha de </span><span class="b g ge">2027</span><br><span class="r">merece atenção.</span></p>
+  </div>
+  <img class="logo" src="ativos/logo.png" alt="EcoFiscal MT">
+</section>
+
+<section class="art" id="c02">
+  <div class="foto"></div>
+  <svg class="fio" viewBox="0 0 1080 640" aria-hidden="true">
+    <defs><linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#20B4F5"/><stop offset=".5" stop-color="#00D6DC"/><stop offset="1" stop-color="#00E6A0"/></linearGradient></defs>
+    <path d="M0 590 C 110 560, 250 566, 420 585 C 640 610, 860 600, 1080 520" fill="none" stroke="url(#lg)" stroke-width="6"/>
+  </svg>
+  <div class="texto">
+    <h2 class="ti"><span class="m">Revise a </span><span class="b g gc">opção</span></h2>
+    <p class="ap"><span class="r">Identifique os clientes que escolheram o </span><span class="b">regime regular de IBS e&nbsp;CBS</span><span class="r"> para o&nbsp;primeiro semestre de&nbsp;2027.</span></p>
+  </div>
+  <img class="logo" src="ativos/logo.png" alt="EcoFiscal MT">
+</section>
+
+<section class="art" id="c03">
+  <div class="camada foto"></div>
+  <div class="camada tom"></div>
+  <div class="texto">
+    <h2 class="ti"><span class="m">Compare a </span><span class="b g ge">cadeia</span></h2>
+    <p class="ap"><span class="r">Considere o </span><span class="b">perfil dos compradores</span><span class="r">, os créditos possíveis e os custos da&nbsp;operação.</span></p>
+  </div>
+  <img class="logo" src="ativos/logo.png" alt="EcoFiscal MT">
+</section>
+
+</body>
+</html>
