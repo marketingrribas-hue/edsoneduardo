@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>EcoFiscal pilotos</title>
+<style>
+@font-face{font-family:Poppins;font-weight:400;src:url(fonts/poppins-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-weight:500;src:url(fonts/poppins-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-weight:600;src:url(fonts/poppins-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-weight:700;src:url(fonts/poppins-latin-700-normal.woff2) format("woff2")}
+:root{
+  --profundo:#061A38; --marinho:#092653; --royal:#1246C9; --vibrante:#0865EE;
+  --ciano:#00A9E8; --turquesa:#00C4DC; --verde-turq:#00D6A2; --turq-escuro:#007B8C;
+  --branco:#FFFFFF; --gelo:#F3F5F8;
+  /* sistema tipográfico */
+  --t-capa:96px; --t-interno:80px; --t-apoio:52px;
+  --margem:90px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Poppins,sans-serif;-webkit-font-smoothing:antialiased}
+.art{width:1080px;height:1350px;position:relative;overflow:hidden}
+.logo{position:absolute;left:390px;bottom:56px;width:300px;z-index:10}
+.camada{position:absolute;inset:0}
+.texto{position:absolute;left:var(--margem);right:var(--margem);z-index:5}
+.t-capa{font-size:var(--t-capa);line-height:1.1;letter-spacing:-1.2px}
+.t-int{font-size:var(--t-interno);line-height:1.12;letter-spacing:-.9px}
+.apoio{font-size:var(--t-apoio);line-height:1.3;letter-spacing:-.2px}
+.r{font-weight:400}.m{font-weight:500}.sb{font-weight:600}.b{font-weight:700}
+.g-escuro{background:linear-gradient(90deg,var(--ciano) 0%,var(--turquesa) 45%,var(--verde-turq) 100%);
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+.g-vibrante{background:linear-gradient(90deg,#3FE0F0 0%,var(--verde-turq) 100%);
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+.g-claro{background:linear-gradient(90deg,var(--royal) 0%,var(--turq-escuro) 100%);
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+
+/* ===== 1. CAPA | FAMÍLIA A | azul vibrante + objeto (ref. relógio) ===== */
+#p1{background:linear-gradient(180deg,#0C5CF0 0%,#0A4FE4 48%,#0940D8 66%,#0B2F84 82%,#092653 92%)}
+#p1 .luz{background:radial-gradient(700px 520px at 78% 64%,rgba(0,169,232,.30),rgba(0,169,232,0) 70%)}
+#p1 .objeto{position:absolute;left:120px;top:210px;width:950px;height:1188px;
+  background:url(ativos/balanca.png) center/cover no-repeat;
+  -webkit-mask-image:radial-gradient(60% 48% at 66% 58%,#000 58%,transparent 100%),linear-gradient(180deg,#000 72%,transparent 84%);
+  -webkit-mask-composite:source-in;
+          mask-image:radial-gradient(60% 48% at 66% 58%,#000 58%,transparent 100%),linear-gradient(180deg,#000 72%,transparent 84%);
+          mask-composite:intersect}
+#p1 .texto{top:120px}
+#p1 h1{color:#fff}
+#p1 .apoio{margin-top:40px;color:#fff;max-width:520px}
+
+/* ===== 2. INTERNO | FAMÍLIA B | azul-marinho editorial ===== */
+#p2{background:radial-gradient(900px 700px at 85% 10%,#0E3170 0%,var(--marinho) 45%,var(--profundo) 100%)}
+#p2 .cadeia{position:absolute;left:0;top:560px;width:1080px;height:720px;
+  background:url(ativos/cadeia.png) center/cover no-repeat;
+  -webkit-mask-image:radial-gradient(60% 50% at 50% 52%,#000 55%,transparent 100%);
+          mask-image:radial-gradient(60% 50% at 50% 52%,#000 55%,transparent 100%)}
+#p2 .texto{top:200px}
+#p2 h2{color:#fff}
+#p2 .fio{display:block;width:96px;height:6px;border-radius:3px;margin:40px 0 36px;
+  background:linear-gradient(90deg,var(--ciano),var(--verde-turq))}
+#p2 .apoio{color:#D3DEEF}
+#p2 .apoio .sb{color:#fff}
+
+/* ===== 3. INTERNO | FAMÍLIA C | branco corporativo ===== */
+#p3{background:var(--gelo)}
+#p3 .grade line{stroke:#E1E6EE;stroke-width:2}
+#p3 .toggle{position:absolute;right:20px;top:600px;width:640px;height:640px;
+  background:url(ativos/toggle.png) center/cover no-repeat;
+  -webkit-mask-image:radial-gradient(50% 50% at 50% 50%,#000 70%,transparent 100%);
+          mask-image:radial-gradient(50% 50% at 50% 50%,#000 70%,transparent 100%)}
+#p3 .texto{top:170px}
+#p3 h2{color:var(--marinho)}
+#p3 .fio{display:block;width:96px;height:6px;border-radius:3px;margin:40px 0 36px;
+  background:linear-gradient(90deg,var(--royal),var(--turq-escuro))}
+#p3 .apoio{color:#1F3354}
+#p3 .apoio .sb{color:var(--turq-escuro)}
+
+/* ===== 4. CARD ÚNICO | FAMÍLIA B/E | marinho + objeto + degradê ===== */
+#p4{background:linear-gradient(180deg,#03183C 0%,var(--profundo) 100%)}
+#p4 .objeto{position:absolute;left:343px;top:0;width:737px;height:922px;
+  background:url(ativos/etiqueta.png) center/cover no-repeat;
+  -webkit-mask-image:linear-gradient(180deg,#000 72%,transparent 100%),linear-gradient(90deg,transparent 0%,#000 30%);
+  -webkit-mask-composite:source-in;
+          mask-image:linear-gradient(180deg,#000 72%,transparent 100%),linear-gradient(90deg,transparent 0%,#000 30%);
+          mask-composite:intersect}
+#p4 .texto{top:560px}
+#p4 h1{color:#fff}
+#p4 .apoio{margin-top:36px;color:#D3DEEF}
+#p4 .apoio .sb{color:#fff}
+</style>
+</head>
+<body>
+
+<!-- 1 -->
+<section class="art" id="p1">
+  <div class="camada luz"></div>
+  <div class="objeto"></div>
+  <div class="texto">
+    <h1 class="t-capa"><span class="m">Seu cliente do </span><span class="b g-vibrante">Simples</span><span class="m"> vende para </span><span class="b">empresas?</span></h1>
+    <p class="apoio"><span class="r">A escolha de </span><span class="sb g-vibrante">2027</span><span class="r"> merece atenção.</span></p>
+  </div>
+  <img class="logo" src="ativos/logo.png" alt="EcoFiscal MT">
+</section>
+
+<!-- 2 -->
+<section class="art" id="p2">
+  <div class="cadeia"></div>
+  <div class="texto">
+    <h2 class="t-int"><span class="m">Compare a </span><span class="b g-escuro">cadeia</span></h2>
+    <span class="fio"></span>
+    <p class="apoio"><span class="r">Considere o </span><span class="sb">perfil dos compradores</span><span class="r">, os créditos possíveis e os custos da&nbsp;operação.</span></p>
+  </div>
+  <img class="logo" src="ativos/logo.png" alt="EcoFiscal MT">
+</section>
+
+<!-- 3 -->
+<section class="art" id="p3">
+  <svg class="camada grade" viewBox="0 0 1080 1350" aria-hidden="true">
+    <line x1="90" y1="0" x2="90" y2="1350"/><line x1="540" y1="0" x2="540" y2="1350"/><line x1="990" y1="0" x2="990" y2="1350"/>
+  </svg>
+  <div class="toggle"></div>
+  <div class="texto">
+    <h2 class="t-int"><span class="m">Revise a </span><span class="b g-claro">opção</span></h2>
+    <span class="fio"></span>
+    <p class="apoio"><span class="r">Identifique os clientes que escolheram o </span><span class="sb">regime regular de IBS e&nbsp;CBS</span><span class="r"> para o&nbsp;primeiro semestre de&nbsp;2027.</span></p>
+  </div>
+  <img class="logo" src="ativos/logo.png" alt="EcoFiscal MT">
+</section>
+
+<!-- 4 -->
+<section class="art" id="p4">
+  <div class="objeto"></div>
+  <div class="texto">
+    <h1 class="t-capa"><span class="m">O DAS mais baixo não garante a </span><span class="b g-escuro">melhor decisão</span><span class="b"> tributária.</span></h1>
+    <p class="apoio"><span class="r">O perfil dos </span><span class="sb">clientes e fornecedores</span><span class="r"> também importa.</span></p>
+  </div>
+  <img class="logo" src="ativos/logo.png" alt="EcoFiscal MT">
+</section>
+
+</body>
+</html>

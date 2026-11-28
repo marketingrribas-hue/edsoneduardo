@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>EcoFiscal matriz tipográfica</title>
+<style>
+@font-face{font-family:Montserrat;font-weight:400;src:url(fonts/montserrat-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:Montserrat;font-weight:500;src:url(fonts/montserrat-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:Montserrat;font-weight:600;src:url(fonts/montserrat-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:Montserrat;font-weight:700;src:url(fonts/montserrat-latin-700-normal.woff2) format("woff2")}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Montserrat,sans-serif;-webkit-font-smoothing:antialiased}
+.art{width:1080px;height:1350px;position:relative;overflow:hidden}
+.bloco{position:absolute;left:90px;right:90px;top:250px}
+h1{font-size:100px;line-height:110px;letter-spacing:-2px}
+h1 span{display:block}
+h1 .r{font-weight:400}
+h1 .b{font-weight:700}
+/* degradê real: preenchimento linear horizontal contínuo em cada palavra destacada */
+.grad{display:inline-block !important;-webkit-background-clip:text;background-clip:text;color:transparent;padding-right:4px}
+.apoio{margin-top:60px;font-size:58px;line-height:76px;font-weight:400;letter-spacing:-.5px}
+.logo{position:absolute;left:370px;bottom:64px;width:340px}
+
+/* Versão 1 — azul vibrante */
+#azul{background:linear-gradient(200deg,#0865EE 0%,#1246C9 52%,#0B3196 80%,#092653 100%)}
+#azul h1,#azul .apoio{color:#FFFFFF}
+#azul .grad{background-image:linear-gradient(90deg,#20B4F5 0%,#00D6DC 50%,#00E6A0 100%)}
+
+/* Versão 2 — branco */
+#branco{background:linear-gradient(180deg,#FFFFFF 0%,#F3F5F8 100%)}
+#branco h1,#branco .apoio{color:#092653}
+#branco .grad{background-image:linear-gradient(90deg,#1246C9 0%,#0A6FB8 50%,#007B8C 100%)}
+</style>
+</head>
+<body>
+<section class="art" id="azul">
+  <div class="bloco">
+    <h1><span class="r">Seu cliente do</span><span class="b grad">Simples</span><span class="r">vende para</span><span class="b grad">empresas?</span></h1>
+    <p class="apoio">A escolha de 2027<br>merece atenção.</p>
+  </div>
+  <img class="logo" src="logo.png" alt="EcoFiscal MT">
+</section>
+<section class="art" id="branco">
+  <div class="bloco">
+    <h1><span class="r">Seu cliente do</span><span class="b grad">Simples</span><span class="r">vende para</span><span class="b grad">empresas?</span></h1>
+    <p class="apoio">A escolha de 2027<br>merece atenção.</p>
+  </div>
+  <img class="logo" src="logo.png" alt="EcoFiscal MT">
+</section>
+</body>
+</html>
