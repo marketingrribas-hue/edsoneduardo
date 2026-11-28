@@ -1,0 +1,48 @@
+@font-face{font-family:Poppins;font-weight:400;src:url(fonts/poppins-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-weight:500;src:url(fonts/poppins-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-weight:700;src:url(fonts/poppins-latin-700-normal.woff2) format("woff2")}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Poppins,sans-serif;-webkit-font-smoothing:antialiased}
+.art{width:1080px;height:1350px;position:relative;overflow:hidden}
+.deco{position:absolute;inset:0;width:1080px;height:1350px}
+.block{position:absolute;left:80px;right:80px}
+h1{font-size:80px;line-height:1.15;letter-spacing:-.5px;text-wrap:balance}
+h2{font-size:64px;line-height:1.15;letter-spacing:-.3px;text-wrap:balance}
+p{font-size:44px;line-height:1.32;font-weight:400;text-wrap:pretty}
+h1 b,h2 b,p b{font-weight:700}
+.logo-area{position:absolute;left:390px;bottom:72px;width:300px;height:96px}
+/* capa escura (família A) */
+.capa-escura{background:radial-gradient(900px 700px at 105% 8%,rgba(18,89,216,.55),rgba(18,89,216,0) 70%),radial-gradient(700px 600px at -10% 105%,rgba(16,58,130,.75),rgba(16,58,130,0) 70%),#081D3D}
+.capa-escura h1{font-weight:500;color:#fff;max-width:700px}
+.capa-escura .t{color:#27C9D5;font-weight:700}
+.capa-escura p{margin-top:40px;color:#D6E2F2}.capa-escura p b{color:#fff}
+/* internos claros */
+.int-clara,.int-clara2{background:linear-gradient(180deg,#fff 0%,#F3F6FA 100%)}
+.int-clara .block,.int-clara2 .block{right:180px;padding-left:44px;border-left:6px solid #007B8C}
+.int-clara2 .block{right:100px}
+.int-clara h2,.int-clara2 h2,.concl-clara h2{font-weight:700;color:#081D3D}
+.int-clara .t,.int-clara2 .t,.concl-clara .t,.unico-claro .t,.capa-clara .t{color:#007B8C}
+.int-clara p,.int-clara2 p{margin-top:36px;color:#2A3B57}
+.int-clara p b,.int-clara2 p b{font-weight:500;color:#103A82}
+/* interno escuro */
+.int-escura{background:#081D3D}
+.int-escura .block{right:160px;padding-left:44px;border-left:6px solid #27C9D5}
+.int-escura h2{font-weight:700;color:#fff}.int-escura .t{color:#27C9D5}
+.int-escura p{margin-top:36px;color:#D6E2F2}.int-escura p b{font-weight:500;color:#fff}
+/* conclusão clara: bloco em destaque */
+.concl-clara{background:#F3F6FA}
+.concl-clara .block{top:400px;left:80px;right:80px;background:#fff;border:2px solid #DCE7F3;border-radius:36px;padding:72px 72px 76px;border-top:10px solid #007B8C}
+.concl-clara p{margin-top:36px;color:#2A3B57}.concl-clara p b{font-weight:500;color:#081D3D}
+/* card único claro (família B) */
+.unico-claro{background:#fff}
+.unico-claro h1{font-weight:500;color:#081D3D}.unico-claro h1 .t{font-weight:700}
+.unico-claro p{margin-top:44px;color:#2A3B57;max-width:780px}.unico-claro p b{font-weight:500;color:#103A82}
+/* capa clara (família B) */
+.capa-clara{background:linear-gradient(180deg,#fff 0%,#F3F6FA 100%)}
+.capa-clara .block{top:500px;right:200px}
+.capa-clara h1{font-weight:500;color:#081D3D}.capa-clara h1 .t{font-weight:700}
+/* conclusão escura */
+.concl-escura{background:linear-gradient(160deg,#103A82 0%,#081D3D 70%)}
+.concl-escura .block{top:470px;left:120px;right:120px;text-align:center}
+.concl-escura h2{font-weight:700;color:#fff}.concl-escura .t{color:#27C9D5}
+.concl-escura p{margin-top:40px;color:#D6E2F2}.concl-escura p b{font-weight:500;color:#fff}
