@@ -7,7 +7,7 @@ from PIL import Image
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(AQUI)
-SVG = os.path.join(AQUI, 'svg')
+SVG = os.path.join(AQUI, 'final_svg')
 ENT = os.path.join(RAIZ, 'entregas_ecofiscal')
 PUBS = json.load(open(os.path.join(AQUI, 'planejamento.json')))
 
@@ -18,11 +18,7 @@ SEMANAS = [('semana_01_27nov-03dez', date(2026, 11, 27), date(2026, 12, 3)),
            ('semana_05_25dez-31dez', date(2026, 12, 25), date(2026, 12, 31))]
 
 # P01: capa e cards 02/03 aprovados, preservados sem alteração
-APROVADOS = {
-    '2026-11-27_0900_C01': os.path.join(RAIZ, 'p01_carrossel', 'P01_capa'),
-    '2026-11-27_0900_C02': os.path.join(RAIZ, 'p01_carrossel', 'P01_C02'),
-    '2026-11-27_0900_C03': os.path.join(RAIZ, 'p01_carrossel', 'P01_C03'),
-}
+APROVADOS = {}
 
 def dt(p):
     d, m, a = p['data'].split('/')
@@ -80,7 +76,7 @@ for sem, ini, fim in SEMANAS:
     # PDF semanal: uma arte por página
     imgs = [Image.open(f).convert('RGB') for f in todas]
     if imgs:
-        imgs[0].save(os.path.join(base_sem, f'{sem}_artes.pdf'), save_all=True, append_images=imgs[1:], resolution=96)
+        imgs[0].save(os.path.join(base_sem, f'{sem}_artes.pdf'), save_all=True, append_images=imgs[1:], resolution=96, quality=88)
     # prévia do feed (ordem do Instagram: mais recente no alto à esquerda)
     capas = list(reversed(feed)); W, H = 360, 450
     lin = (len(capas) + 2) // 3
